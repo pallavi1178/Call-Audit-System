@@ -1,0 +1,1325 @@
+[Mon Apr 06 18:26:10 IST 2026] [com.telesoftlabs.testCases.BaseClass] [setup] [INFO] Browser initialized: firefox
+[Mon Apr 06 18:26:11 IST 2026] [com.telesoftlabs.testCases.BaseClass] [setup] [INFO] Browser Launched 
+[Mon Apr 06 18:26:12 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Login Username is: admin
+[Mon Apr 06 18:26:12 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Login Password is: Telesuite@8765
+[Mon Apr 06 18:26:13 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Session conflict modal not found 
+[Mon Apr 06 18:26:13 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Login to the application [Telesuite - Dashboard] is successfull
+[Mon Apr 06 18:26:13 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Expected URL is: http://192.168.100.142/cas/dashboard
+[Mon Apr 06 18:26:13 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Actual URL is: http://192.168.100.142/cas/dashboard
+[Mon Apr 06 18:26:13 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Actual snackbar is: User logged in successfully.
+[Mon Apr 06 18:26:14 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Clicked on Close button
+[Mon Apr 06 18:26:14 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Login successfull.......:)
+[Mon Apr 06 18:26:14 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] ***** started Adding Region *****
+[Mon Apr 06 18:26:14 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Sub Menu not found.......
+[Mon Apr 06 18:26:14 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Country name is: India
+[Mon Apr 06 18:26:14 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Country code is: +91
+[Mon Apr 06 18:26:15 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] IDD is: 12
+[Mon Apr 06 18:26:15 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] NDD is: 13
+[Mon Apr 06 18:26:15 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Area code is: 123
+[Mon Apr 06 18:26:15 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Fixed Line Start Digits is: 1,2,3
+[Mon Apr 06 18:26:15 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Mobile Start Digits is: 4,5,6
+[Mon Apr 06 18:26:15 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Service Provider is: AIRTEL
+[Mon Apr 06 18:26:15 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Network Start Digits is: 123
+[Mon Apr 06 18:26:17 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Region Added Successfully
+[Mon Apr 06 18:26:17 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [assertSnackbar] [INFO] Actual snackbar obtaining for adding region is: Region saved successfully!
+[Mon Apr 06 18:26:17 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/setup/call
+[Mon Apr 06 18:26:17 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Clicked on Close button
+[Mon Apr 06 18:26:17 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [duplicateRegion] [INFO] ***** started Adding Duplicate Region *****
+[Mon Apr 06 18:26:18 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Country name is: India
+[Mon Apr 06 18:26:18 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Country code is: +91
+[Mon Apr 06 18:26:18 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] IDD is: 12
+[Mon Apr 06 18:26:18 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] NDD is: 13
+[Mon Apr 06 18:26:18 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Area code is: 123
+[Mon Apr 06 18:26:18 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Fixed Line Start Digits is: 1,2,3
+[Mon Apr 06 18:26:19 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Mobile Start Digits is: 4,5,6
+[Mon Apr 06 18:26:19 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Service Provider is: AIRTEL
+[Mon Apr 06 18:26:19 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Network Start Digits is: 123
+[Mon Apr 06 18:26:21 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [assertDuplicateRegion] [INFO] Actual Heading obtaining for adding region is: Duplicate Entry
+[Mon Apr 06 18:26:21 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingClass] [addBillingClass] [INFO] ***** started Adding Billing Class *****
+[Mon Apr 06 18:26:21 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingClass] [addBillingClass] [INFO] Displaying sub Menu....
+[Mon Apr 06 18:26:21 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingClass] [addBillingClass] [INFO] Added Billing Class name is: Pallavi
+[Mon Apr 06 18:26:22 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingClass] [addBillingClass] [INFO] Added Grace Period is: 1
+[Mon Apr 06 18:26:22 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingClass] [addBillingClass] [INFO] Added Pulse In Seconds is: 1
+[Mon Apr 06 18:26:22 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingClass] [addBillingClass] [INFO] Added Charge per Pulse is: 1
+[Mon Apr 06 18:26:22 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingClass] [addBillingClass] [INFO] Added Markup percentage: 1
+[Mon Apr 06 18:26:23 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingClass] [addBillingClass] [INFO] Added Surcharge is: 1
+[Mon Apr 06 18:26:23 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingClass] [addBillingClass] [INFO] Billing Class Added Successfully......
+[Mon Apr 06 18:26:24 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingClass] [assertSnackbar] [INFO] Actual snackbar obtaining for adding region is: Billing Class saved successfully!
+[Mon Apr 06 18:26:24 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingClass] [assertSnackbar] [INFO] Clicked on Close button
+[Mon Apr 06 18:26:24 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingClass] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/setup/call
+[Mon Apr 06 18:26:24 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [addBillingException] [INFO] ***** started Adding Region *****
+[Mon Apr 06 18:26:24 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [addBillingException] [INFO] Displaying sub Menu....
+[Mon Apr 06 18:26:24 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [addBillingException] [INFO] Toll-Free Number is: 1234
+[Mon Apr 06 18:26:24 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [addBillingException] [INFO] Added Description is: Testing
+[Mon Apr 06 18:26:24 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [addBillingException] [INFO] Added Pulse in Seconds is: 1
+[Mon Apr 06 18:26:25 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [addBillingException] [INFO] Added Charge per Pulse is: 1
+[Mon Apr 06 18:26:25 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [addBillingException] [INFO] Added Grace Period is: 1
+[Mon Apr 06 18:26:25 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [addBillingException] [INFO] Billing Exception Added Successfully.....
+[Mon Apr 06 18:26:26 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [assertSnackbar] [INFO] Actual snackbar obtaining for adding Billing exception is: BillingException saved successfully!
+[Mon Apr 06 18:26:26 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [assertSnackbar] [INFO] Clicked on Close button
+[Mon Apr 06 18:26:26 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/setup/call
+[Mon Apr 06 18:26:26 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [duplicateBillingException] [INFO] ***** started Adding Duplicate Billing Exception *****
+[Mon Apr 06 18:26:26 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [addBillingException] [INFO] Toll-Free Number is: 1234
+[Mon Apr 06 18:26:26 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [addBillingException] [INFO] Added Description is: Testing
+[Mon Apr 06 18:26:27 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [addBillingException] [INFO] Added Pulse in Seconds is: 1
+[Mon Apr 06 18:26:27 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [addBillingException] [INFO] Added Charge per Pulse is: 1
+[Mon Apr 06 18:26:27 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [addBillingException] [INFO] Added Grace Period is: 1
+[Mon Apr 06 18:26:28 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [assertDuplicateBillingException] [INFO] Actual Heading obtaining for adding region is: Duplicate Entry
+[Mon Apr 06 18:26:28 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] ****** Started Adding PBX ******
+[Mon Apr 06 18:26:28 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Displaying sub Menu....
+[Mon Apr 06 18:26:28 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added PBX name is: Pallavi
+[Mon Apr 06 18:26:29 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Extension Start Position: 
+[Mon Apr 06 18:26:29 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Extension Width is: 
+[Mon Apr 06 18:26:29 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Extension Format is: 
+[Mon Apr 06 18:26:29 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Date & Time start position is: 
+[Mon Apr 06 18:26:29 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Date & Time Width is: 
+[Mon Apr 06 18:26:29 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Date & Time Format is: 
+[Mon Apr 06 18:26:29 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added duration Start Position is: 
+[Mon Apr 06 18:26:29 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Duration Width is: 
+[Mon Apr 06 18:26:30 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Duration Format is: 
+[Mon Apr 06 18:26:30 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Trunk Start Position is: 
+[Mon Apr 06 18:26:30 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Trunk Width is: 
+[Mon Apr 06 18:26:30 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Trunk Format is: 
+[Mon Apr 06 18:26:30 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Call Direction Start Position is: 
+[Mon Apr 06 18:26:30 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Call Direction Width is: 
+[Mon Apr 06 18:26:30 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Call Direction Format is: 
+[Mon Apr 06 18:26:30 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Dialed Number Start Position is: 
+[Mon Apr 06 18:26:30 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Dialed Number Width is: 
+[Mon Apr 06 18:26:31 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Dialed Number Format is: 
+[Mon Apr 06 18:26:31 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Pulses Start Position is: 
+[Mon Apr 06 18:26:31 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Pulses width is: 
+[Mon Apr 06 18:26:31 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Pulses Format is: 
+[Mon Apr 06 18:26:31 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Record Seperator Start position is: 
+[Mon Apr 06 18:26:31 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Record Seperator Width is: 
+[Mon Apr 06 18:26:31 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Record Seperator Format is: 
+[Mon Apr 06 18:26:31 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Account Code Start Position is: 
+[Mon Apr 06 18:26:31 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Account Code Width is: 
+[Mon Apr 06 18:26:31 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Account Code Format is: 
+[Mon Apr 06 18:26:32 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added CLI Start Position is: 
+[Mon Apr 06 18:26:32 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added CLI Width is: 
+[Mon Apr 06 18:26:32 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added CLI Format is: 
+[Mon Apr 06 18:26:32 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Swap Ext/CLI for Incoming Call Start Position is: 
+[Mon Apr 06 18:26:32 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Swap Ext/CLI for Incoming Call Width is: 
+[Mon Apr 06 18:26:32 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Swap Ext/CLI for Incoming Call Format is: 
+[Mon Apr 06 18:26:32 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Column Delimiter Start Position is: 
+[Mon Apr 06 18:26:32 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Column Delimiter Width is: 
+[Mon Apr 06 18:26:32 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Column Delimiter Format is: 
+[Mon Apr 06 18:26:34 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/setup/pbx
+[Mon Apr 06 18:26:34 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [assertSnackbar] [INFO] Actual snackbar obtaining for adding PBX is: Pbx saved successfully!
+[Mon Apr 06 18:26:34 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Clicked on Close button
+[Mon Apr 06 18:26:34 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] PBX Added Successfully.....
+[Mon Apr 06 18:26:34 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [duplicatePBX] [INFO] ***** started Adding Duplicate PBX *****
+[Mon Apr 06 18:26:34 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added PBX name is: Pallavi
+[Mon Apr 06 18:26:34 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Extension Start Position: 
+[Mon Apr 06 18:26:34 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Extension Width is: 
+[Mon Apr 06 18:26:35 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Extension Format is: 
+[Mon Apr 06 18:26:35 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Date & Time start position is: 
+[Mon Apr 06 18:26:35 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Date & Time Width is: 
+[Mon Apr 06 18:26:35 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Date & Time Format is: 
+[Mon Apr 06 18:26:35 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added duration Start Position is: 
+[Mon Apr 06 18:26:35 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Duration Width is: 
+[Mon Apr 06 18:26:35 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Duration Format is: 
+[Mon Apr 06 18:26:35 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Trunk Start Position is: 
+[Mon Apr 06 18:26:35 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Trunk Width is: 
+[Mon Apr 06 18:26:35 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Trunk Format is: 
+[Mon Apr 06 18:26:36 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Call Direction Start Position is: 
+[Mon Apr 06 18:26:36 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Call Direction Width is: 
+[Mon Apr 06 18:26:36 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Call Direction Format is: 
+[Mon Apr 06 18:26:36 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Dialed Number Start Position is: 
+[Mon Apr 06 18:26:36 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Dialed Number Width is: 
+[Mon Apr 06 18:26:36 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Dialed Number Format is: 
+[Mon Apr 06 18:26:36 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Pulses Start Position is: 
+[Mon Apr 06 18:26:36 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Pulses width is: 
+[Mon Apr 06 18:26:36 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Pulses Format is: 
+[Mon Apr 06 18:26:36 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Record Seperator Start position is: 
+[Mon Apr 06 18:26:37 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Record Seperator Width is: 
+[Mon Apr 06 18:26:37 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Record Seperator Format is: 
+[Mon Apr 06 18:26:37 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Account Code Start Position is: 
+[Mon Apr 06 18:26:37 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Account Code Width is: 
+[Mon Apr 06 18:26:37 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Account Code Format is: 
+[Mon Apr 06 18:26:37 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added CLI Start Position is: 
+[Mon Apr 06 18:26:37 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added CLI Width is: 
+[Mon Apr 06 18:26:37 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added CLI Format is: 
+[Mon Apr 06 18:26:37 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Swap Ext/CLI for Incoming Call Start Position is: 
+[Mon Apr 06 18:26:37 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Swap Ext/CLI for Incoming Call Width is: 
+[Mon Apr 06 18:26:38 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Swap Ext/CLI for Incoming Call Format is: 
+[Mon Apr 06 18:26:38 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Column Delimiter Start Position is: 
+[Mon Apr 06 18:26:38 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Column Delimiter Width is: 
+[Mon Apr 06 18:26:38 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Column Delimiter Format is: 
+[Mon Apr 06 18:26:40 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [assertDuplicatePBX] [INFO] Actual Heading obtaining for adding region is: Duplicate PBX
+[Mon Apr 06 18:26:40 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [addLocationProperties] [INFO] ****** Started Adding Location Properties ******
+[Mon Apr 06 18:26:40 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [addLocationProperties] [INFO] Sub Menu Displayed.........
+[Mon Apr 06 18:26:41 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [addLocationProperties] [INFO] Selected PBX from the dropdown is: Pallavi
+[Mon Apr 06 18:26:42 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [addLocationProperties] [INFO] Selected Region from the dropdown is: India
+[Mon Apr 06 18:26:42 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [addLocationProperties] [INFO] Selected Billing class from the dropdown is: Pallavi
+[Mon Apr 06 18:26:43 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [addLocationProperties] [INFO] Selected Call Rate is: Select All
+[Mon Apr 06 18:26:43 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [selectCommunicationMode] [INFO] Selected Communication Mode is: File.
+[Mon Apr 06 18:26:43 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [fileCommunicationMode] [INFO] Added CDR File Path is: c:/abcde
+[Mon Apr 06 18:26:43 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [fileCommunicationMode] [INFO] Added CDR File Extension is: .txt 
+[Mon Apr 06 18:26:43 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [fileCommunicationMode] [INFO] Added CDR Dump File Path is: c:/qwert
+[Mon Apr 06 18:26:43 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [addLocationProperties] [INFO] Location Property Saved Successfully....
+[Mon Apr 06 18:26:44 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [assertSnackbar] [INFO] Actual snackbar obtaining for adding Location Properties is: Location & Properties created successfully.
+[Mon Apr 06 18:26:44 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [assertSnackbar] [INFO] Clicked on Close button
+[Mon Apr 06 18:26:44 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/setup/locationproperties
+[Mon Apr 06 18:26:44 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [duplicateLocationProperty] [INFO] ***** started Adding Duplicate Location Properties *****
+[Mon Apr 06 18:26:45 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [addLocationProperties] [INFO] Selected PBX from the dropdown is: Pallavi
+[Mon Apr 06 18:26:46 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [addLocationProperties] [INFO] Selected Region from the dropdown is: India
+[Mon Apr 06 18:26:46 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [addLocationProperties] [INFO] Selected Billing class from the dropdown is: Pallavi
+[Mon Apr 06 18:26:47 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [addLocationProperties] [INFO] Selected Call Rate is: Select All
+[Mon Apr 06 18:26:47 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [selectCommunicationMode] [INFO] Selected Communication Mode is: File.
+[Mon Apr 06 18:26:47 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [fileCommunicationMode] [INFO] Added CDR File Path is: c:/abcde
+[Mon Apr 06 18:26:47 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [fileCommunicationMode] [INFO] Added CDR File Extension is: .txt 
+[Mon Apr 06 18:26:47 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [fileCommunicationMode] [INFO] Added CDR Dump File Path is: c:/qwert
+[Mon Apr 06 18:26:48 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [assertDuplicateLocationProperty] [INFO] Actual Heading obtaining for adding region is: Duplicate Location
+[Mon Apr 06 18:26:48 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] ****** Starting Adding Roles ******
+[Mon Apr 06 18:26:49 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Dashboard given Successfully...
+[Mon Apr 06 18:26:49 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Search given Successfully...
+[Mon Apr 06 18:26:49 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Reports given Successfully...
+[Mon Apr 06 18:26:49 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Extension given Successfully...
+[Mon Apr 06 18:26:49 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Latest CDR given Successfully...
+[Mon Apr 06 18:26:50 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Region given Successfully...
+[Mon Apr 06 18:26:50 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Call Rates given Successfully...
+[Mon Apr 06 18:26:50 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Billing Class given Successfully...
+[Mon Apr 06 18:26:50 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Billing Exception given Successfully...
+[Mon Apr 06 18:26:50 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission PBX given Successfully...
+[Mon Apr 06 18:26:50 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Location Properties given Successfully...
+[Mon Apr 06 18:26:51 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/roles
+[Mon Apr 06 18:26:51 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [assertSnackbar] [INFO] Actual snackbar obtaining for adding Roles is: Role created successfully
+[Mon Apr 06 18:26:51 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] Clicked on Close button
+[Mon Apr 06 18:26:51 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] Role Added Successfully.....
+[Mon Apr 06 18:26:51 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [duplicateRoles] [INFO] ****** Starting Adding Duplicate Roles ******
+[Mon Apr 06 18:26:51 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Dashboard given Successfully...
+[Mon Apr 06 18:26:51 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Search given Successfully...
+[Mon Apr 06 18:26:52 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Reports given Successfully...
+[Mon Apr 06 18:26:52 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Extension given Successfully...
+[Mon Apr 06 18:26:52 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Latest CDR given Successfully...
+[Mon Apr 06 18:26:52 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Region given Successfully...
+[Mon Apr 06 18:26:52 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Call Rates given Successfully...
+[Mon Apr 06 18:26:52 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Billing Class given Successfully...
+[Mon Apr 06 18:26:52 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Billing Exception given Successfully...
+[Mon Apr 06 18:26:52 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission PBX given Successfully...
+[Mon Apr 06 18:26:52 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Location Properties given Successfully...
+[Mon Apr 06 18:26:53 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [assertDuplicateRole] [INFO] Actual Heading obtaining for adding region is: Duplicate Role
+[Mon Apr 06 18:26:53 IST 2026] [com.telesoftlabs.testCases.Tc_AddUser] [addUser] [INFO] ***** Started Adding User *****
+[Mon Apr 06 18:26:54 IST 2026] [com.telesoftlabs.testCases.Tc_AddUser] [addUser] [INFO] Created User name is: Pallavi
+[Mon Apr 06 18:26:54 IST 2026] [com.telesoftlabs.testCases.Tc_AddUser] [addUser] [INFO] Display name is: Pallavi
+[Mon Apr 06 18:26:54 IST 2026] [com.telesoftlabs.testCases.Tc_AddUser] [addUser] [INFO] Added Password is: Telesuite@8765
+[Mon Apr 06 18:26:54 IST 2026] [com.telesoftlabs.testCases.Tc_AddUser] [addUser] [INFO] Added Email is: pallavi@telesoftlabs.com
+[Mon Apr 06 18:26:54 IST 2026] [com.telesoftlabs.testCases.Tc_AddUser] [selectRandomRole] [INFO] Roles available in dropdown: [Select Role, TESTING]
+[Mon Apr 06 18:26:54 IST 2026] [com.telesoftlabs.testCases.Tc_AddUser] [selectRandomRole] [INFO] Selected Role is: TESTING
+[Mon Apr 06 18:26:54 IST 2026] [com.telesoftlabs.testCases.Tc_AddUser] [selectRandomRole] [INFO] Selected Role is: TESTING
+[Mon Apr 06 18:26:57 IST 2026] [com.telesoftlabs.testCases.Tc_AddUser] [assertSnackbar] [INFO] Actual snackbar obtaining for adding Users is: User Create successfully
+[Mon Apr 06 18:26:57 IST 2026] [com.telesoftlabs.testCases.Tc_AddUser] [addUser] [INFO] Clicked on Close button
+[Mon Apr 06 18:26:57 IST 2026] [com.telesoftlabs.testCases.Tc_AddUser] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/user
+[Mon Apr 06 18:26:57 IST 2026] [com.telesoftlabs.testCases.Tc_AddUser] [addUser] [INFO] User Created Successfully....
+[Mon Apr 06 18:26:57 IST 2026] [com.telesoftlabs.testCases.Tc_AddExtension] [addExtension] [INFO] ****** Started Adding Extension ******
+[Mon Apr 06 18:26:57 IST 2026] [com.telesoftlabs.testCases.Tc_AddExtension] [selectRandomLocation] [INFO] *** Started Randomly Selecting the Location ***
+[Mon Apr 06 18:26:58 IST 2026] [com.telesoftlabs.testCases.Tc_AddExtension] [selectRandomLocation] [INFO] Total Locations: 1
+[Mon Apr 06 18:26:58 IST 2026] [com.telesoftlabs.testCases.Tc_AddExtension] [selectRandomLocation] [INFO] Selecting Location: Bengaluru
+[Mon Apr 06 18:26:58 IST 2026] [com.telesoftlabs.testCases.Tc_AddExtension] [addExtension] [INFO] Adding Extensions from: 100
+[Mon Apr 06 18:26:59 IST 2026] [com.telesoftlabs.testCases.Tc_AddExtension] [addExtension] [INFO] Adding Extensions to: 
+[Mon Apr 06 18:26:59 IST 2026] [com.telesoftlabs.testCases.Tc_AddExtension] [selectRandomBillingClass] [INFO] *** Started Randomly Selecting the Billing Class ***
+[Mon Apr 06 18:26:59 IST 2026] [com.telesoftlabs.testCases.Tc_AddExtension] [selectRandomBillingClass] [INFO] Total Billing Class: 2
+[Mon Apr 06 18:26:59 IST 2026] [com.telesoftlabs.testCases.Tc_AddExtension] [selectRandomBillingClass] [INFO] Selecting Billing Class: Pallavi
+[Mon Apr 06 18:27:00 IST 2026] [com.telesoftlabs.testCases.Tc_AddExtension] [addExtension] [INFO] Adding Extension User name is: Pallavi
+[Mon Apr 06 18:27:00 IST 2026] [com.telesoftlabs.testCases.Tc_AddExtension] [addExtension] [INFO] Adding Trunk Name is: JIO
+[Mon Apr 06 18:27:00 IST 2026] [com.telesoftlabs.testCases.Tc_AddExtension] [assertSnackbar] [INFO] Actual snackbar obtaining for adding Extension is: Extensions created successfully!
+[Mon Apr 06 18:27:00 IST 2026] [com.telesoftlabs.testCases.Tc_AddExtension] [addExtension] [INFO] Clicked on Close button
+[Mon Apr 06 18:27:00 IST 2026] [com.telesoftlabs.testCases.Tc_AddExtension] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/extension
+[Mon Apr 06 18:27:00 IST 2026] [com.telesoftlabs.testCases.Tc_AddExtension] [addExtension] [INFO] Extension Created Successfully....
+[Mon Apr 06 18:27:00 IST 2026] [com.telesoftlabs.testCases.Tc_LatestCDR] [latestCdr] [INFO] ****** Started Automating the LatestCDR page ******
+[Mon Apr 06 18:27:01 IST 2026] [com.telesoftlabs.testCases.Tc_LatestCDR] [latestCdr] [INFO] Total Locations: 2
+[Mon Apr 06 18:27:01 IST 2026] [com.telesoftlabs.testCases.Tc_LatestCDR] [latestCdr] [INFO] Location Dropdown Expanded......
+[Mon Apr 06 18:27:01 IST 2026] [com.telesoftlabs.testCases.Tc_LatestCDR] [latestCdr] [INFO] Checking Location: All
+[Mon Apr 06 18:27:01 IST 2026] [com.telesoftlabs.testCases.Tc_LatestCDR] [latestCdr] [INFO] Pagination: 0 of 0
+[Mon Apr 06 18:27:01 IST 2026] [com.telesoftlabs.testCases.Tc_LatestCDR] [latestCdr] [INFO] No records found for: All
+[Mon Apr 06 18:27:01 IST 2026] [com.telesoftlabs.testCases.Tc_LatestCDR] [latestCdr] [INFO] Clicking on the Location Dropdown to expand......
+[Mon Apr 06 18:27:02 IST 2026] [com.telesoftlabs.testCases.Tc_LatestCDR] [latestCdr] [INFO] Checking Location: Bengaluru
+[Mon Apr 06 18:27:02 IST 2026] [com.telesoftlabs.testCases.Tc_LatestCDR] [latestCdr] [INFO] Pagination: 0 of 0
+[Mon Apr 06 18:27:02 IST 2026] [com.telesoftlabs.testCases.Tc_LatestCDR] [latestCdr] [INFO] No records found for: Bengaluru
+[Mon Apr 06 18:27:02 IST 2026] [com.telesoftlabs.testCases.Tc_SearchPage] [verifySearchFunctionality] [INFO] ===== START: Search Functionality Test =====
+[Mon Apr 06 18:27:02 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [<init>] [INFO] SearchPage initialized
+[Mon Apr 06 18:27:02 IST 2026] [com.telesoftlabs.testCases.Tc_SearchPage] [verifySearchFunctionality] [INFO] Navigating to Search Page
+[Mon Apr 06 18:27:02 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [getSearchPage] [INFO] Accessing Search Page link
+[Mon Apr 06 18:27:03 IST 2026] [com.telesoftlabs.testCases.Tc_SearchPage] [verifySearchFunctionality] [INFO] Expand Button Status is: filter_alt
+[Mon Apr 06 18:27:03 IST 2026] [com.telesoftlabs.testCases.Tc_SearchPage] [verifySearchFunctionality] [INFO] Filters are visible......:) 
+[Mon Apr 06 18:27:03 IST 2026] [com.telesoftlabs.testCases.Tc_SearchPage] [verifySearchFunctionality] [INFO] Applying search filters
+[Mon Apr 06 18:27:03 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [applyFilters] [INFO] Applying filters...
+[Mon Apr 06 18:27:03 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [applyFilters] [INFO] Location: Bengaluru
+[Mon Apr 06 18:27:03 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [getLocationDropdown] [INFO] Accessing Location dropdown
+[Mon Apr 06 18:27:03 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [selectFromDropdown] [INFO] Selecting value: Bengaluru from dropdown
+[Mon Apr 06 18:27:03 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [selectFromDropdown] [INFO] Selected value: Bengaluru
+[Mon Apr 06 18:27:03 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [applyFilters] [INFO] Call Direction: Incoming
+[Mon Apr 06 18:27:03 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [getCallDirectionDropdown] [INFO] Accessing Call Direction dropdown
+[Mon Apr 06 18:27:03 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [selectFromDropdown] [INFO] Selecting value: Incoming from dropdown
+[Mon Apr 06 18:27:03 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [selectFromDropdown] [INFO] Selected value: Incoming
+[Mon Apr 06 18:27:04 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [applyFilters] [INFO] Duration: Any
+[Mon Apr 06 18:27:04 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [getDurationDropdown] [INFO] Accessing Duration dropdown
+[Mon Apr 06 18:27:04 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [selectFromDropdown] [INFO] Selecting value: Any from dropdown
+[Mon Apr 06 18:27:04 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [selectFromDropdown] [INFO] Selected value: Any
+[Mon Apr 06 18:27:04 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [applyFilters] [INFO] Call Type: Local
+[Mon Apr 06 18:27:04 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [getCallTypeDropdown] [INFO] Accessing Call Type dropdown
+[Mon Apr 06 18:27:04 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [selectFromDropdown] [INFO] Selecting value: Local from dropdown
+[Mon Apr 06 18:27:04 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [selectFromDropdown] [INFO] Selected value: Local
+[Mon Apr 06 18:27:04 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [applyFilters] [INFO] Extension: 
+[Mon Apr 06 18:27:04 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [getExtension] [INFO] Accessing Extension field
+[Mon Apr 06 18:27:04 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [applyFilters] [INFO] Trunk: 
+[Mon Apr 06 18:27:04 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [getTrunk] [INFO] Accessing Trunk field
+[Mon Apr 06 18:27:05 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [applyFilters] [INFO] Dialed Number/CLI: 
+[Mon Apr 06 18:27:05 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [getDialedNumberOrCLI] [INFO] Accessing Dialed Number/CLI field
+[Mon Apr 06 18:27:05 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [applyFilters] [INFO] Filters applied successfully
+[Mon Apr 06 18:27:05 IST 2026] [com.telesoftlabs.testCases.Tc_SearchPage] [verifySearchFunctionality] [INFO] Clicking on Search button using JavaScriptExecutor
+[Mon Apr 06 18:27:05 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [getSearchButton] [INFO] Accessing Search button
+[Mon Apr 06 18:27:05 IST 2026] [com.telesoftlabs.testCases.Tc_SearchPage] [verifySearchFunctionality] [INFO] Search triggered, validating results...
+[Mon Apr 06 18:27:05 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [isRecordsDisplayed] [INFO] Checking if records are displayed
+[Mon Apr 06 18:27:09 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [isRecordsDisplayed] [WARNING] Records not displayed
+[Mon Apr 06 18:27:09 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [isNoRecordsMessageDisplayed] [INFO] Checking for 'Records not available' message
+[Mon Apr 06 18:27:09 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [isNoRecordsMessageDisplayed] [INFO] 'Records not available' message is displayed
+[Mon Apr 06 18:27:09 IST 2026] [com.telesoftlabs.testCases.Tc_SearchPage] [verifySearchFunctionality] [WARNING] No records found for given filters
+[Mon Apr 06 18:27:09 IST 2026] [com.telesoftlabs.testCases.Tc_SearchPage] [verifySearchFunctionality] [INFO] ===== END: Search Functionality Test =====
+[Mon Apr 06 18:27:09 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportsPage] [INFO] Navigated to Reports Page
+[Mon Apr 06 18:27:09 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [selectLocationByIndex] [INFO] Location Dropdown Expanded......
+[Mon Apr 06 18:27:09 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [selectLocationByIndex] [INFO] Selected Location: Bengaluru
+[Mon Apr 06 18:27:11 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [selectReportType] [INFO] Selected Report Type: Summary
+[Mon Apr 06 18:27:13 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [getReportCount] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:27:14 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] ReportName Dropdown Expanded......
+[Mon Apr 06 18:27:14 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Extension Wise Incoming Call Summary
+[Mon Apr 06 18:27:14 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Extension Wise Incoming Call Summary
+[Mon Apr 06 18:27:14 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Extension Wise Incoming Call Summary
+[Mon Apr 06 18:27:14 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:27:15 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Extension Wise Outgoing Call Summary
+[Mon Apr 06 18:27:15 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Extension Wise Outgoing Call Summary
+[Mon Apr 06 18:27:15 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Extension Wise Outgoing Call Summary
+[Mon Apr 06 18:27:15 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:27:15 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Trunk Wise Incoming Call Summary
+[Mon Apr 06 18:27:16 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Trunk Wise Incoming Call Summary
+[Mon Apr 06 18:27:16 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Trunk Wise Incoming Call Summary
+[Mon Apr 06 18:27:16 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:27:16 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Trunk Wise Outgoing Call Summary
+[Mon Apr 06 18:27:17 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Trunk Wise Outgoing Call Summary
+[Mon Apr 06 18:27:17 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Trunk Wise Outgoing Call Summary
+[Mon Apr 06 18:27:17 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:27:17 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Department Wise Incoming Summary
+[Mon Apr 06 18:27:18 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Department Wise Incoming Summary
+[Mon Apr 06 18:27:18 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Department Wise Incoming Summary
+[Mon Apr 06 18:27:18 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:27:18 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Department Wise Outgoing Summary
+[Mon Apr 06 18:27:19 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Department Wise Outgoing Summary
+[Mon Apr 06 18:27:19 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Department Wise Outgoing Summary
+[Mon Apr 06 18:27:19 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [selectReportType] [INFO] Selected Report Type: Detailed
+[Mon Apr 06 18:27:21 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [getReportCount] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:27:21 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] ReportName Dropdown Expanded......
+[Mon Apr 06 18:27:22 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Incoming Call Report (Extension Wise)
+[Mon Apr 06 18:27:22 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Incoming Call Report (Extension Wise)
+[Mon Apr 06 18:27:22 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Incoming Call Report (Extension Wise)
+[Mon Apr 06 18:27:22 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:27:22 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Incoming Call Report (Date Wise)
+[Mon Apr 06 18:27:23 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Incoming Call Report (Date Wise)
+[Mon Apr 06 18:27:23 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Incoming Call Report (Date Wise)
+[Mon Apr 06 18:27:23 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:27:23 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Outgoing Call Report (Extension Wise)
+[Mon Apr 06 18:27:24 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Outgoing Call Report (Extension Wise)
+[Mon Apr 06 18:27:24 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Outgoing Call Report (Extension Wise)
+[Mon Apr 06 18:27:24 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:27:24 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Outgoing Call Report (Date Wise)
+[Mon Apr 06 18:27:25 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Outgoing Call Report (Date Wise)
+[Mon Apr 06 18:27:25 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Outgoing Call Report (Date Wise)
+[Mon Apr 06 18:27:25 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:27:25 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Department Wise Call Details
+[Mon Apr 06 18:27:26 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Department Wise Call Details
+[Mon Apr 06 18:27:26 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Department Wise Call Details
+[Mon Apr 06 18:27:26 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:27:26 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Internal Call Report (Date Wise)
+[Mon Apr 06 18:27:27 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Internal Call Report (Date Wise)
+[Mon Apr 06 18:27:27 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Internal Call Report (Date Wise)
+[Mon Apr 06 18:27:27 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:27:27 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Internal Call Report (Extension Wise)
+[Mon Apr 06 18:27:28 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Internal Call Report (Extension Wise)
+[Mon Apr 06 18:27:28 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Internal Call Report (Extension Wise)
+[Mon Apr 06 18:27:28 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:27:28 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Billing Class Report
+[Mon Apr 06 18:27:28 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Billing Class Report
+[Mon Apr 06 18:27:28 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Billing Class Report
+[Mon Apr 06 18:27:28 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:27:29 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Call Type Report
+[Mon Apr 06 18:27:29 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Call Type Report
+[Mon Apr 06 18:27:29 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Call Type Report
+[Mon Apr 06 18:27:29 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:27:30 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Longest Duration Call Report
+[Mon Apr 06 18:27:30 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Longest Duration Call Report
+[Mon Apr 06 18:27:30 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Longest Duration Call Report
+[Mon Apr 06 18:27:30 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:27:30 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Total Call Report
+[Mon Apr 06 18:27:31 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Total Call Report
+[Mon Apr 06 18:27:31 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Total Call Report
+[Mon Apr 06 18:27:31 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:27:31 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Trunk Wise Call Report
+[Mon Apr 06 18:27:32 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Trunk Wise Call Report
+[Mon Apr 06 18:27:32 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Trunk Wise Call Report
+[Mon Apr 06 18:27:32 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [validateAllReports] [INFO] Completed for Location: Bengaluru
+[Mon Apr 06 18:27:33 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateUser] [updateUser] [INFO] ***** Started Updating the User *****
+[Mon Apr 06 18:27:34 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateUser] [assertSnackbar] [INFO] Actual snackbar obtaining for Updating Users is: User Update successfully
+[Mon Apr 06 18:27:34 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateUser] [updateUser] [INFO] Clicked on Close button
+[Mon Apr 06 18:27:34 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateUser] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/user
+[Mon Apr 06 18:27:34 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateUser] [updateUser] [INFO] User Updated Successfully....
+[Mon Apr 06 18:27:34 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateRoles] [updateRoles] [INFO] ****** Started Updating the Roles ******
+[Mon Apr 06 18:27:34 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateRoles] [updateRoles] [INFO] Updating Role: TESTING
+[Mon Apr 06 18:27:35 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateRoles] [assertSnackbar] [INFO] Actual snackbar obtaining for Updating Roles is: Role updated successfully
+[Mon Apr 06 18:27:35 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateRoles] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/roles
+[Mon Apr 06 18:27:35 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateRoles] [updateRoles] [INFO] Clicked on Close button
+[Mon Apr 06 18:27:35 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateRoles] [updateRoles] [INFO] Roles Updated Successfully......
+[Mon Apr 06 18:27:35 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateRegion] [updateRegion] [INFO] ***** started Updating Region *****
+[Mon Apr 06 18:27:36 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateRegion] [updateRegion] [INFO] Sub Menu not found.......
+[Mon Apr 06 18:27:36 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateRegion] [updateRegion] [INFO] Region Updated Successfully
+[Mon Apr 06 18:27:37 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateRegion] [assertSnackbar] [INFO] Actual snackbar obtaining for updating region is: Region Updated successfully!
+[Mon Apr 06 18:27:37 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateRegion] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/setup/call
+[Mon Apr 06 18:27:37 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateRegion] [updateRegion] [INFO] Clicked on Close button
+[Mon Apr 06 18:27:37 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateRegion] [updateRegion] [INFO] Region Updated Successfully......
+[Mon Apr 06 18:27:37 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateBillingClass] [updateBillingClass] [INFO] ***** started Updating Billing Class *****
+[Mon Apr 06 18:27:37 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateBillingClass] [updateBillingClass] [INFO] Displaying sub Menu....
+[Mon Apr 06 18:27:38 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateBillingClass] [assertSnackbar] [INFO] Actual snackbar obtaining for Updating Billing Class is: Billing Class Updated successfully!
+[Mon Apr 06 18:27:38 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateBillingClass] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/setup/call
+[Mon Apr 06 18:27:38 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateBillingClass] [updateBillingClass] [INFO] Clicked on Close button
+[Mon Apr 06 18:27:38 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateBillingClass] [updateBillingClass] [INFO] Billing Class Updated Successfully......
+[Mon Apr 06 18:27:38 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateBillingException] [UpdateBillingException] [INFO] ***** started Updating Billing Exception *****
+[Mon Apr 06 18:27:38 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateBillingException] [UpdateBillingException] [INFO] Displaying sub Menu....
+[Mon Apr 06 18:27:39 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateBillingException] [assertSnackbar] [INFO] Actual snackbar obtaining for Updating Billing Exception is: BillingException Updated successfully!
+[Mon Apr 06 18:27:39 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateBillingException] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/setup/call
+[Mon Apr 06 18:27:39 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateBillingException] [UpdateBillingException] [INFO] Clicked on Close button
+[Mon Apr 06 18:27:39 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateBillingException] [UpdateBillingException] [INFO] Billing Exception Updated Successfully......
+[Mon Apr 06 18:27:39 IST 2026] [com.telesoftlabs.testCases.Tc_UpdatePBX] [updatePBX] [INFO] ****** Started Updating PBX ******
+[Mon Apr 06 18:27:39 IST 2026] [com.telesoftlabs.testCases.Tc_UpdatePBX] [updatePBX] [INFO] Displaying sub Menu.....
+[Mon Apr 06 18:27:41 IST 2026] [com.telesoftlabs.testCases.Tc_UpdatePBX] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/setup/pbx
+[Mon Apr 06 18:27:41 IST 2026] [com.telesoftlabs.testCases.Tc_UpdatePBX] [assertSnackbar] [INFO] Actual snackbar obtaining for Updating PBX is: Pbx updated successfully!
+[Mon Apr 06 18:27:41 IST 2026] [com.telesoftlabs.testCases.Tc_UpdatePBX] [updatePBX] [INFO] Clicked on Close button
+[Mon Apr 06 18:27:41 IST 2026] [com.telesoftlabs.testCases.Tc_UpdatePBX] [updatePBX] [INFO] PBX Updated Successfully
+[Mon Apr 06 18:27:41 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateExtension] [searchExtension] [INFO] ****** Started Searching the Extension ******
+[Mon Apr 06 18:27:41 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateExtension] [searchExtension] [INFO] Searching Extensions to: 100
+[Mon Apr 06 18:27:41 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateExtension] [searchExtension] [INFO] Searching Extensions to: 
+[Mon Apr 06 18:27:41 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateExtension] [updateExtension] [INFO] ****** Started Updating the Extension ******
+[Mon Apr 06 18:27:41 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateExtension] [updateExtension] [INFO] No, 'Records Not Available' Message Found, continuing update extension process...
+[Mon Apr 06 18:27:42 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateExtension] [updateExtension] [INFO] Total Records Found: 2
+[Mon Apr 06 18:27:42 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateExtension] [updateExtension] [INFO] Updated Extension Username: Ext_1775480262289
+[Mon Apr 06 18:27:43 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateExtension] [updateExtension] [INFO] Actual Snackbar found: Extension updated successfully!
+[Mon Apr 06 18:27:43 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateExtension] [updateExtension] [INFO] Clicked on Close button
+[Mon Apr 06 18:27:43 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateExtension] [searchExtension] [INFO] ****** Started Searching the Extension ******
+[Mon Apr 06 18:27:43 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateExtension] [searchExtension] [INFO] Searching Extensions to: 100
+[Mon Apr 06 18:27:43 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateExtension] [searchExtension] [INFO] Searching Extensions to: 
+[Mon Apr 06 18:27:44 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateExtension] [updateExtension] [INFO] Expected Name: Ext_1775480262289
+[Mon Apr 06 18:27:44 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateExtension] [updateExtension] [INFO] Actual Name from UI: Ext_1775480262289
+[Mon Apr 06 18:27:44 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateExtension] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/extension
+[Mon Apr 06 18:27:44 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateLocationProperties] [updateLocationProperties] [INFO] ****** Started Updating Location Properties ******
+[Mon Apr 06 18:27:44 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateLocationProperties] [updateLocationProperties] [INFO] Sub Menu Not Displayed, clicking on the Setup button.........
+[Mon Apr 06 18:27:45 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateLocationProperties] [updateLocationProperties] [INFO] Location Property Updated Successfully....
+[Mon Apr 06 18:27:49 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateLocationProperties] [updateLocationProperties] [INFO] Clicked on Close button
+[Mon Apr 06 18:27:49 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateLocationProperties] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/setup/locationproperties
+[Mon Apr 06 18:27:49 IST 2026] [com.telesoftlabs.testCases.Tc_ImportExtension] [importExtensions] [INFO] ****** Started Importing the Extensions ******
+[Mon Apr 06 18:27:49 IST 2026] [com.telesoftlabs.testCases.Tc_ImportExtension] [importExtensions] [INFO] Count of Extensions before Import is: 1
+[Mon Apr 06 18:27:49 IST 2026] [com.telesoftlabs.testCases.Tc_ImportExtension] [importExtensions] [INFO] Application Path is: C:\pallavi\Projects\Workspace\CallAudit
+[Mon Apr 06 18:27:49 IST 2026] [com.telesoftlabs.testCases.Tc_ImportExtension] [importExtensions] [INFO] Directory Path is: C:\pallavi\Projects\Workspace\CallAudit\ImportFiles\Extension
+[Mon Apr 06 18:27:49 IST 2026] [com.telesoftlabs.testCases.Tc_ImportExtension] [importExtensions] [INFO] Selected Extension file is: C:\pallavi\Projects\Workspace\CallAudit\ImportFiles\Extension\Extension.csv
+[Mon Apr 06 18:27:54 IST 2026] [com.telesoftlabs.testCases.Tc_ImportExtension] [importExtensions] [INFO] Count of Extensions Imported is: 1
+[Mon Apr 06 18:27:54 IST 2026] [com.telesoftlabs.testCases.Tc_ImportExtension] [importExtensions] [INFO] Clicked on Close button
+[Mon Apr 06 18:27:54 IST 2026] [com.telesoftlabs.testCases.Tc_ImportExtension] [importExtensions] [INFO] Count of Extensions After Import is: 2
+[Mon Apr 06 18:27:54 IST 2026] [com.telesoftlabs.testCases.Tc_ImportExtension] [importExtensions] [INFO] Extensions Imported Successfully....
+[Mon Apr 06 18:27:54 IST 2026] [com.telesoftlabs.testCases.Tc_ImportExtension] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/extension
+[Mon Apr 06 18:27:54 IST 2026] [com.telesoftlabs.testCases.Tc_ExportExtensions] [exportExtensions] [INFO] ****** Started Exporting the Extensions ******
+[Mon Apr 06 18:27:54 IST 2026] [com.telesoftlabs.testCases.Tc_ExportExtensions] [exportExtensions] [INFO] Obtained Snackbar is: Export successful!
+[Mon Apr 06 18:27:54 IST 2026] [com.telesoftlabs.testCases.Tc_ExportExtensions] [assertSnackbar] [INFO] Export completed successfully
+[Mon Apr 06 18:27:55 IST 2026] [com.telesoftlabs.testCases.Tc_ExportExtensions] [exportExtensions] [INFO] Clicked on Close button
+[Mon Apr 06 18:27:55 IST 2026] [com.telesoftlabs.testCases.Tc_ExportExtensions] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/extension
+[Mon Apr 06 18:27:55 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteUser] [deleteUser] [INFO] ***** Started Deleting the User *****
+[Mon Apr 06 18:27:55 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteUser] [deleteUser] [INFO] Deleting the user: Pallavi
+[Mon Apr 06 18:27:56 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteUser] [assertSnackbar] [INFO] Actual snackbar obtaining for Delete Users is: User deleted successfully
+[Mon Apr 06 18:27:56 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteUser] [deleteUser] [INFO] Clicked on Close button
+[Mon Apr 06 18:27:56 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteUser] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/user
+[Mon Apr 06 18:27:56 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteUser] [deleteUser] [INFO] User Deleted Successfully....
+[Mon Apr 06 18:27:56 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteExtension] [searchExtension] [INFO] ****** Started Searching the Extension ******
+[Mon Apr 06 18:27:56 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteExtension] [searchExtension] [INFO] Searching Extensions to: 100
+[Mon Apr 06 18:27:56 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteExtension] [searchExtension] [INFO] Searching Extensions to: 
+[Mon Apr 06 18:27:56 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteExtension] [deleteExtension] [INFO] ****** Started Deleting the Extension ******
+[Mon Apr 06 18:27:56 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteExtension] [deleteExtension] [INFO] No, 'Records Not Available' Message Found, continuing delete extension process...
+[Mon Apr 06 18:27:57 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteExtension] [deleteExtension] [INFO] Total Records Found: 3
+[Mon Apr 06 18:27:58 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteExtension] [deleteExtension] [INFO] Actual Snackbar found: extension deleted successfully
+[Mon Apr 06 18:27:58 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteExtension] [deleteExtension] [INFO] Clicked on Close button
+[Mon Apr 06 18:27:58 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteExtension] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/extension
+[Mon Apr 06 18:27:58 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteLocationProperties] [deleteLocationProperties] [INFO] ****** Started Deleting Location Properties ******
+[Mon Apr 06 18:27:58 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteLocationProperties] [deleteLocationProperties] [INFO] Sub Menu Not Displayed, clicking on the Setup button.........
+[Mon Apr 06 18:27:59 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteLocationProperties] [deleteLocationProperties] [INFO] Location Property deleted Successfully....
+[Mon Apr 06 18:28:00 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteLocationProperties] [assertSnackbar] [INFO] Actual snackbar obtaining for deleting Location Properties is: Properties deleted successfully.
+[Mon Apr 06 18:28:00 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteLocationProperties] [assertSnackbar] [INFO] Clicked on Close button
+[Mon Apr 06 18:28:00 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteLocationProperties] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/setup/locationproperties
+[Mon Apr 06 18:28:00 IST 2026] [com.telesoftlabs.testCases.Tc_DeletePBX] [deletePBX] [INFO] ****** Started Deleting PBX ******
+[Mon Apr 06 18:28:00 IST 2026] [com.telesoftlabs.testCases.Tc_DeletePBX] [deletePBX] [INFO] Displaying sub Menu....
+[Mon Apr 06 18:28:00 IST 2026] [com.telesoftlabs.testCases.Tc_DeletePBX] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/setup/pbx
+[Mon Apr 06 18:28:00 IST 2026] [com.telesoftlabs.testCases.Tc_DeletePBX] [assertSnackbar] [INFO] Actual snackbar obtaining for deleting PBX is: Pbx data deleted successfully
+[Mon Apr 06 18:28:00 IST 2026] [com.telesoftlabs.testCases.Tc_DeletePBX] [deletePBX] [INFO] Clicked on Close button
+[Mon Apr 06 18:28:00 IST 2026] [com.telesoftlabs.testCases.Tc_DeletePBX] [deletePBX] [INFO] PBX deleted Successfully
+[Mon Apr 06 18:28:00 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteRegion] [deleteRegion] [INFO] ***** started Deleting Region *****
+[Mon Apr 06 18:28:00 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteRegion] [deleteRegion] [INFO] Displaying sub Menu....
+[Mon Apr 06 18:28:01 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteRegion] [deleteRegion] [INFO] Region Deleted Successfully
+[Mon Apr 06 18:28:01 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteRegion] [assertSnackbar] [INFO] Actual snackbar obtaining for deleting region is: India deleted successfully
+[Mon Apr 06 18:28:01 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteRegion] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/setup/call
+[Mon Apr 06 18:28:01 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteRegion] [deleteRegion] [INFO] Clicked on Close button
+[Mon Apr 06 18:28:01 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteRegion] [deleteRegion] [INFO] Region Deleted Successfully......
+[Mon Apr 06 18:28:01 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteBillingClass] [deleteBillingClass] [INFO] ***** started Deleting Billing Class *****
+[Mon Apr 06 18:28:01 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteBillingClass] [deleteBillingClass] [INFO] Displaying sub Menu....
+[Mon Apr 06 18:28:02 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteBillingClass] [assertSnackbar] [INFO] Actual snackbar obtaining for deleting Billing Class is: Billing class deleted successfully
+[Mon Apr 06 18:28:02 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteBillingClass] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/setup/call
+[Mon Apr 06 18:28:02 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteBillingClass] [deleteBillingClass] [INFO] Clicked on Close button
+[Mon Apr 06 18:28:02 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteBillingClass] [deleteBillingClass] [INFO] Billing Class Deleted Successfully......
+[Mon Apr 06 18:28:02 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteBillingException] [deleteBillingException] [INFO] ***** started Deleting Billing Exception *****
+[Mon Apr 06 18:28:02 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteBillingException] [deleteBillingException] [INFO] Displaying sub Menu....
+[Mon Apr 06 18:28:03 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteBillingException] [assertSnackbar] [INFO] Actual snackbar obtaining for deleting Billing Exception is: Billing Exception deleted successfully
+[Mon Apr 06 18:28:03 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteBillingException] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/setup/call
+[Mon Apr 06 18:28:03 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteBillingException] [deleteBillingException] [INFO] Clicked on Close button
+[Mon Apr 06 18:28:03 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteBillingException] [deleteBillingException] [INFO] Billing Exception Deleted Successfully......
+[Mon Apr 06 18:28:03 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteRoles] [deleteRoles] [INFO] ****** Started Deleting Roles ******
+[Mon Apr 06 18:28:04 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteRoles] [deleteRoles] [INFO] Role TESTING Deleted
+[Mon Apr 06 18:28:04 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteRoles] [assertSnackbar] [INFO] Actual snackbar obtaining for Updating Roles is: Role deleted successfully
+[Mon Apr 06 18:28:04 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteRoles] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/roles
+[Mon Apr 06 18:28:04 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteRoles] [deleteRoles] [INFO] Clicked on Close button
+[Mon Apr 06 18:28:04 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteRoles] [deleteRoles] [INFO] Roles Deleted Successfully......
+[Mon Apr 06 18:28:04 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateTodayAnalysis] [INFO] ===== TODAY ANALYSIS TEST START =====
+[Mon Apr 06 18:28:04 IST 2026] [com.telesoftlabs.CallAudit.TelesuiteCallAuditApplication] [dashboard] [SEVERE] Exception while Validating Dashboard....:( class java.lang.NullPointerException Cannot invoke "com.telesoftlabs.pageObjects.Dashboard.getDashboardPage()" because "this.dashboard" is null
+[Mon Apr 06 18:28:06 IST 2026] [com.telesoftlabs.testCases.BaseClass] [tearDown] [INFO] Browser closed and driver instance terminated.
+[Mon Apr 06 18:37:35 IST 2026] [com.telesoftlabs.testCases.BaseClass] [setup] [INFO] Browser initialized: firefox
+[Mon Apr 06 18:37:36 IST 2026] [com.telesoftlabs.testCases.BaseClass] [setup] [INFO] Browser Launched 
+[Mon Apr 06 18:37:37 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Login Username is: admin
+[Mon Apr 06 18:37:37 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Login Password is: Telesuite@8765
+[Mon Apr 06 18:37:38 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Session conflict modal not found 
+[Mon Apr 06 18:37:38 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Login to the application [Telesuite - Dashboard] is successfull
+[Mon Apr 06 18:37:38 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Expected URL is: http://192.168.100.142/cas/dashboard
+[Mon Apr 06 18:37:38 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Actual URL is: http://192.168.100.142/cas/dashboard
+[Mon Apr 06 18:37:38 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Actual snackbar is: User logged in successfully.
+[Mon Apr 06 18:37:38 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Clicked on Close button
+[Mon Apr 06 18:37:38 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Login successfull.......:)
+[Mon Apr 06 18:37:38 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] ***** started Adding Region *****
+[Mon Apr 06 18:37:39 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Sub Menu not found.......
+[Mon Apr 06 18:37:39 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Country name is: India
+[Mon Apr 06 18:37:39 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Country code is: +91
+[Mon Apr 06 18:37:39 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] IDD is: 12
+[Mon Apr 06 18:37:39 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] NDD is: 13
+[Mon Apr 06 18:37:40 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Area code is: 123
+[Mon Apr 06 18:37:40 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Fixed Line Start Digits is: 1,2,3
+[Mon Apr 06 18:37:40 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Mobile Start Digits is: 4,5,6
+[Mon Apr 06 18:37:40 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Service Provider is: AIRTEL
+[Mon Apr 06 18:37:40 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Network Start Digits is: 123
+[Mon Apr 06 18:37:41 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Region Added Successfully
+[Mon Apr 06 18:37:42 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [assertSnackbar] [INFO] Actual snackbar obtaining for adding region is: Region saved successfully!
+[Mon Apr 06 18:37:42 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/setup/call
+[Mon Apr 06 18:37:42 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Clicked on Close button
+[Mon Apr 06 18:37:42 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [duplicateRegion] [INFO] ***** started Adding Duplicate Region *****
+[Mon Apr 06 18:37:42 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Country name is: India
+[Mon Apr 06 18:37:42 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Country code is: +91
+[Mon Apr 06 18:37:43 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] IDD is: 12
+[Mon Apr 06 18:37:43 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] NDD is: 13
+[Mon Apr 06 18:37:43 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Area code is: 123
+[Mon Apr 06 18:37:43 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Fixed Line Start Digits is: 1,2,3
+[Mon Apr 06 18:37:43 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Mobile Start Digits is: 4,5,6
+[Mon Apr 06 18:37:43 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Service Provider is: AIRTEL
+[Mon Apr 06 18:37:44 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Network Start Digits is: 123
+[Mon Apr 06 18:37:45 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [assertDuplicateRegion] [INFO] Actual Heading obtaining for adding region is: Duplicate Entry
+[Mon Apr 06 18:37:46 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingClass] [addBillingClass] [INFO] ***** started Adding Billing Class *****
+[Mon Apr 06 18:37:46 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingClass] [addBillingClass] [INFO] Displaying sub Menu....
+[Mon Apr 06 18:37:46 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingClass] [addBillingClass] [INFO] Added Billing Class name is: Pallavi
+[Mon Apr 06 18:37:46 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingClass] [addBillingClass] [INFO] Added Grace Period is: 1
+[Mon Apr 06 18:37:47 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingClass] [addBillingClass] [INFO] Added Pulse In Seconds is: 1
+[Mon Apr 06 18:37:47 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingClass] [addBillingClass] [INFO] Added Charge per Pulse is: 1
+[Mon Apr 06 18:37:47 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingClass] [addBillingClass] [INFO] Added Markup percentage: 1
+[Mon Apr 06 18:37:47 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingClass] [addBillingClass] [INFO] Added Surcharge is: 1
+[Mon Apr 06 18:37:47 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingClass] [addBillingClass] [INFO] Billing Class Added Successfully......
+[Mon Apr 06 18:37:48 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingClass] [assertSnackbar] [INFO] Actual snackbar obtaining for adding region is: Billing Class saved successfully!
+[Mon Apr 06 18:37:48 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingClass] [assertSnackbar] [INFO] Clicked on Close button
+[Mon Apr 06 18:37:48 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingClass] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/setup/call
+[Mon Apr 06 18:37:48 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [addBillingException] [INFO] ***** started Adding Region *****
+[Mon Apr 06 18:37:48 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [addBillingException] [INFO] Displaying sub Menu....
+[Mon Apr 06 18:37:49 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [addBillingException] [INFO] Toll-Free Number is: 1234
+[Mon Apr 06 18:37:49 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [addBillingException] [INFO] Added Description is: Testing
+[Mon Apr 06 18:37:49 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [addBillingException] [INFO] Added Pulse in Seconds is: 1
+[Mon Apr 06 18:37:49 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [addBillingException] [INFO] Added Charge per Pulse is: 1
+[Mon Apr 06 18:37:49 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [addBillingException] [INFO] Added Grace Period is: 1
+[Mon Apr 06 18:37:50 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [addBillingException] [INFO] Billing Exception Added Successfully.....
+[Mon Apr 06 18:37:50 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [assertSnackbar] [INFO] Actual snackbar obtaining for adding Billing exception is: BillingException saved successfully!
+[Mon Apr 06 18:37:50 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [assertSnackbar] [INFO] Clicked on Close button
+[Mon Apr 06 18:37:50 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/setup/call
+[Mon Apr 06 18:37:50 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [duplicateBillingException] [INFO] ***** started Adding Duplicate Billing Exception *****
+[Mon Apr 06 18:37:51 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [addBillingException] [INFO] Toll-Free Number is: 1234
+[Mon Apr 06 18:37:51 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [addBillingException] [INFO] Added Description is: Testing
+[Mon Apr 06 18:37:51 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [addBillingException] [INFO] Added Pulse in Seconds is: 1
+[Mon Apr 06 18:37:51 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [addBillingException] [INFO] Added Charge per Pulse is: 1
+[Mon Apr 06 18:37:51 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [addBillingException] [INFO] Added Grace Period is: 1
+[Mon Apr 06 18:37:52 IST 2026] [com.telesoftlabs.testCases.Tc_AddBillingException] [assertDuplicateBillingException] [INFO] Actual Heading obtaining for adding region is: Duplicate Entry
+[Mon Apr 06 18:37:52 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] ****** Started Adding PBX ******
+[Mon Apr 06 18:37:53 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Displaying sub Menu....
+[Mon Apr 06 18:37:53 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added PBX name is: Pallavi
+[Mon Apr 06 18:37:53 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Extension Start Position: 
+[Mon Apr 06 18:37:53 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Extension Width is: 
+[Mon Apr 06 18:37:53 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Extension Format is: 
+[Mon Apr 06 18:37:54 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Date & Time start position is: 
+[Mon Apr 06 18:37:54 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Date & Time Width is: 
+[Mon Apr 06 18:37:54 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Date & Time Format is: 
+[Mon Apr 06 18:37:54 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added duration Start Position is: 
+[Mon Apr 06 18:37:54 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Duration Width is: 
+[Mon Apr 06 18:37:54 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Duration Format is: 
+[Mon Apr 06 18:37:54 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Trunk Start Position is: 
+[Mon Apr 06 18:37:54 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Trunk Width is: 
+[Mon Apr 06 18:37:54 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Trunk Format is: 
+[Mon Apr 06 18:37:54 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Call Direction Start Position is: 
+[Mon Apr 06 18:37:55 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Call Direction Width is: 
+[Mon Apr 06 18:37:55 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Call Direction Format is: 
+[Mon Apr 06 18:37:55 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Dialed Number Start Position is: 
+[Mon Apr 06 18:37:55 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Dialed Number Width is: 
+[Mon Apr 06 18:37:55 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Dialed Number Format is: 
+[Mon Apr 06 18:37:55 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Pulses Start Position is: 
+[Mon Apr 06 18:37:55 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Pulses width is: 
+[Mon Apr 06 18:37:55 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Pulses Format is: 
+[Mon Apr 06 18:37:55 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Record Seperator Start position is: 
+[Mon Apr 06 18:37:55 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Record Seperator Width is: 
+[Mon Apr 06 18:37:56 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Record Seperator Format is: 
+[Mon Apr 06 18:37:56 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Account Code Start Position is: 
+[Mon Apr 06 18:37:56 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Account Code Width is: 
+[Mon Apr 06 18:37:56 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Account Code Format is: 
+[Mon Apr 06 18:37:56 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added CLI Start Position is: 
+[Mon Apr 06 18:37:56 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added CLI Width is: 
+[Mon Apr 06 18:37:56 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added CLI Format is: 
+[Mon Apr 06 18:37:56 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Swap Ext/CLI for Incoming Call Start Position is: 
+[Mon Apr 06 18:37:56 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Swap Ext/CLI for Incoming Call Width is: 
+[Mon Apr 06 18:37:57 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Swap Ext/CLI for Incoming Call Format is: 
+[Mon Apr 06 18:37:57 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Column Delimiter Start Position is: 
+[Mon Apr 06 18:37:57 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Column Delimiter Width is: 
+[Mon Apr 06 18:37:57 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Column Delimiter Format is: 
+[Mon Apr 06 18:37:59 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/setup/pbx
+[Mon Apr 06 18:37:59 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [assertSnackbar] [INFO] Actual snackbar obtaining for adding PBX is: Pbx saved successfully!
+[Mon Apr 06 18:37:59 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Clicked on Close button
+[Mon Apr 06 18:37:59 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] PBX Added Successfully.....
+[Mon Apr 06 18:37:59 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [duplicatePBX] [INFO] ***** started Adding Duplicate PBX *****
+[Mon Apr 06 18:37:59 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added PBX name is: Pallavi
+[Mon Apr 06 18:37:59 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Extension Start Position: 
+[Mon Apr 06 18:37:59 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Extension Width is: 
+[Mon Apr 06 18:37:59 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Extension Format is: 
+[Mon Apr 06 18:38:00 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Date & Time start position is: 
+[Mon Apr 06 18:38:00 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Date & Time Width is: 
+[Mon Apr 06 18:38:00 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Date & Time Format is: 
+[Mon Apr 06 18:38:00 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added duration Start Position is: 
+[Mon Apr 06 18:38:00 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Duration Width is: 
+[Mon Apr 06 18:38:00 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Duration Format is: 
+[Mon Apr 06 18:38:00 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Trunk Start Position is: 
+[Mon Apr 06 18:38:00 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Trunk Width is: 
+[Mon Apr 06 18:38:00 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Trunk Format is: 
+[Mon Apr 06 18:38:00 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Call Direction Start Position is: 
+[Mon Apr 06 18:38:01 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Call Direction Width is: 
+[Mon Apr 06 18:38:01 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Call Direction Format is: 
+[Mon Apr 06 18:38:01 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Dialed Number Start Position is: 
+[Mon Apr 06 18:38:01 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Dialed Number Width is: 
+[Mon Apr 06 18:38:01 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Dialed Number Format is: 
+[Mon Apr 06 18:38:01 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Pulses Start Position is: 
+[Mon Apr 06 18:38:01 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Pulses width is: 
+[Mon Apr 06 18:38:02 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Pulses Format is: 
+[Mon Apr 06 18:38:02 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Record Seperator Start position is: 
+[Mon Apr 06 18:38:02 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Record Seperator Width is: 
+[Mon Apr 06 18:38:02 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Record Seperator Format is: 
+[Mon Apr 06 18:38:02 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Account Code Start Position is: 
+[Mon Apr 06 18:38:02 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Account Code Width is: 
+[Mon Apr 06 18:38:02 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Account Code Format is: 
+[Mon Apr 06 18:38:03 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added CLI Start Position is: 
+[Mon Apr 06 18:38:03 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added CLI Width is: 
+[Mon Apr 06 18:38:03 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added CLI Format is: 
+[Mon Apr 06 18:38:03 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Swap Ext/CLI for Incoming Call Start Position is: 
+[Mon Apr 06 18:38:03 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Swap Ext/CLI for Incoming Call Width is: 
+[Mon Apr 06 18:38:03 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Swap Ext/CLI for Incoming Call Format is: 
+[Mon Apr 06 18:38:03 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Column Delimiter Start Position is: 
+[Mon Apr 06 18:38:03 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Column Delimiter Width is: 
+[Mon Apr 06 18:38:03 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [addPBX] [INFO] Added Column Delimiter Format is: 
+[Mon Apr 06 18:38:05 IST 2026] [com.telesoftlabs.testCases.Tc_AddPBX] [assertDuplicatePBX] [INFO] Actual Heading obtaining for adding region is: Duplicate PBX
+[Mon Apr 06 18:38:06 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [addLocationProperties] [INFO] ****** Started Adding Location Properties ******
+[Mon Apr 06 18:38:06 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [addLocationProperties] [INFO] Sub Menu Displayed.........
+[Mon Apr 06 18:38:06 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [addLocationProperties] [INFO] Selected PBX from the dropdown is: Pallavi
+[Mon Apr 06 18:38:07 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [addLocationProperties] [INFO] Selected Region from the dropdown is: India
+[Mon Apr 06 18:38:08 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [addLocationProperties] [INFO] Selected Billing class from the dropdown is: Pallavi
+[Mon Apr 06 18:38:08 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [addLocationProperties] [INFO] Selected Call Rate is: Select All
+[Mon Apr 06 18:38:08 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [selectCommunicationMode] [INFO] Selected Communication Mode is: File.
+[Mon Apr 06 18:38:09 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [fileCommunicationMode] [INFO] Added CDR File Path is: c:/abcde
+[Mon Apr 06 18:38:09 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [fileCommunicationMode] [INFO] Added CDR File Extension is: .txt 
+[Mon Apr 06 18:38:09 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [fileCommunicationMode] [INFO] Added CDR Dump File Path is: c:/qwert
+[Mon Apr 06 18:38:09 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [addLocationProperties] [INFO] Location Property Saved Successfully....
+[Mon Apr 06 18:38:09 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [assertSnackbar] [INFO] Actual snackbar obtaining for adding Location Properties is: Location & Properties created successfully.
+[Mon Apr 06 18:38:09 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [assertSnackbar] [INFO] Clicked on Close button
+[Mon Apr 06 18:38:09 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/setup/locationproperties
+[Mon Apr 06 18:38:09 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [duplicateLocationProperty] [INFO] ***** started Adding Duplicate Location Properties *****
+[Mon Apr 06 18:38:10 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [addLocationProperties] [INFO] Selected PBX from the dropdown is: Pallavi
+[Mon Apr 06 18:38:11 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [addLocationProperties] [INFO] Selected Region from the dropdown is: India
+[Mon Apr 06 18:38:11 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [addLocationProperties] [INFO] Selected Billing class from the dropdown is: Pallavi
+[Mon Apr 06 18:38:12 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [addLocationProperties] [INFO] Selected Call Rate is: Select All
+[Mon Apr 06 18:38:12 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [selectCommunicationMode] [INFO] Selected Communication Mode is: File.
+[Mon Apr 06 18:38:12 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [fileCommunicationMode] [INFO] Added CDR File Path is: c:/abcde
+[Mon Apr 06 18:38:12 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [fileCommunicationMode] [INFO] Added CDR File Extension is: .txt 
+[Mon Apr 06 18:38:12 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [fileCommunicationMode] [INFO] Added CDR Dump File Path is: c:/qwert
+[Mon Apr 06 18:38:13 IST 2026] [com.telesoftlabs.testCases.Tc_AddLocationProperties] [assertDuplicateLocationProperty] [INFO] Actual Heading obtaining for adding region is: Duplicate Location
+[Mon Apr 06 18:38:13 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] ****** Starting Adding Roles ******
+[Mon Apr 06 18:38:14 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Dashboard given Successfully...
+[Mon Apr 06 18:38:14 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Search given Successfully...
+[Mon Apr 06 18:38:14 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Reports given Successfully...
+[Mon Apr 06 18:38:14 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Extension given Successfully...
+[Mon Apr 06 18:38:14 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Latest CDR given Successfully...
+[Mon Apr 06 18:38:14 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Region given Successfully...
+[Mon Apr 06 18:38:14 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Call Rates given Successfully...
+[Mon Apr 06 18:38:15 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Billing Class given Successfully...
+[Mon Apr 06 18:38:15 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Billing Exception given Successfully...
+[Mon Apr 06 18:38:15 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission PBX given Successfully...
+[Mon Apr 06 18:38:15 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Location Properties given Successfully...
+[Mon Apr 06 18:38:16 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/roles
+[Mon Apr 06 18:38:16 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [assertSnackbar] [INFO] Actual snackbar obtaining for adding Roles is: Role created successfully
+[Mon Apr 06 18:38:16 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] Clicked on Close button
+[Mon Apr 06 18:38:16 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] Role Added Successfully.....
+[Mon Apr 06 18:38:16 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [duplicateRoles] [INFO] ****** Starting Adding Duplicate Roles ******
+[Mon Apr 06 18:38:16 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Dashboard given Successfully...
+[Mon Apr 06 18:38:16 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Search given Successfully...
+[Mon Apr 06 18:38:16 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Reports given Successfully...
+[Mon Apr 06 18:38:16 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Extension given Successfully...
+[Mon Apr 06 18:38:17 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Latest CDR given Successfully...
+[Mon Apr 06 18:38:17 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Region given Successfully...
+[Mon Apr 06 18:38:17 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Call Rates given Successfully...
+[Mon Apr 06 18:38:17 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Billing Class given Successfully...
+[Mon Apr 06 18:38:17 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Billing Exception given Successfully...
+[Mon Apr 06 18:38:17 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission PBX given Successfully...
+[Mon Apr 06 18:38:17 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [addRoles] [INFO] permission Location Properties given Successfully...
+[Mon Apr 06 18:38:18 IST 2026] [com.telesoftlabs.testCases.Tc_AddRoles] [assertDuplicateRole] [INFO] Actual Heading obtaining for adding region is: Duplicate Role
+[Mon Apr 06 18:38:18 IST 2026] [com.telesoftlabs.testCases.Tc_AddUser] [addUser] [INFO] ***** Started Adding User *****
+[Mon Apr 06 18:38:19 IST 2026] [com.telesoftlabs.testCases.Tc_AddUser] [addUser] [INFO] Created User name is: Pallavi
+[Mon Apr 06 18:38:19 IST 2026] [com.telesoftlabs.testCases.Tc_AddUser] [addUser] [INFO] Display name is: Pallavi
+[Mon Apr 06 18:38:19 IST 2026] [com.telesoftlabs.testCases.Tc_AddUser] [addUser] [INFO] Added Password is: Telesuite@8765
+[Mon Apr 06 18:38:19 IST 2026] [com.telesoftlabs.testCases.Tc_AddUser] [addUser] [INFO] Added Email is: pallavi@telesoftlabs.com
+[Mon Apr 06 18:38:19 IST 2026] [com.telesoftlabs.testCases.Tc_AddUser] [selectRandomRole] [INFO] Roles available in dropdown: [Select Role, TESTING]
+[Mon Apr 06 18:38:19 IST 2026] [com.telesoftlabs.testCases.Tc_AddUser] [selectRandomRole] [INFO] Selected Role is: TESTING
+[Mon Apr 06 18:38:19 IST 2026] [com.telesoftlabs.testCases.Tc_AddUser] [selectRandomRole] [INFO] Selected Role is: TESTING
+[Mon Apr 06 18:38:22 IST 2026] [com.telesoftlabs.testCases.Tc_AddUser] [assertSnackbar] [INFO] Actual snackbar obtaining for adding Users is: User Create successfully
+[Mon Apr 06 18:38:22 IST 2026] [com.telesoftlabs.testCases.Tc_AddUser] [addUser] [INFO] Clicked on Close button
+[Mon Apr 06 18:38:22 IST 2026] [com.telesoftlabs.testCases.Tc_AddUser] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/user
+[Mon Apr 06 18:38:22 IST 2026] [com.telesoftlabs.testCases.Tc_AddUser] [addUser] [INFO] User Created Successfully....
+[Mon Apr 06 18:38:22 IST 2026] [com.telesoftlabs.testCases.Tc_AddExtension] [addExtension] [INFO] ****** Started Adding Extension ******
+[Mon Apr 06 18:38:22 IST 2026] [com.telesoftlabs.testCases.Tc_AddExtension] [selectRandomLocation] [INFO] *** Started Randomly Selecting the Location ***
+[Mon Apr 06 18:38:22 IST 2026] [com.telesoftlabs.testCases.Tc_AddExtension] [selectRandomLocation] [INFO] Total Locations: 1
+[Mon Apr 06 18:38:22 IST 2026] [com.telesoftlabs.testCases.Tc_AddExtension] [selectRandomLocation] [INFO] Selecting Location: Bengaluru
+[Mon Apr 06 18:38:23 IST 2026] [com.telesoftlabs.testCases.Tc_AddExtension] [addExtension] [INFO] Adding Extensions from: 100
+[Mon Apr 06 18:38:23 IST 2026] [com.telesoftlabs.testCases.Tc_AddExtension] [addExtension] [INFO] Adding Extensions to: 
+[Mon Apr 06 18:38:23 IST 2026] [com.telesoftlabs.testCases.Tc_AddExtension] [selectRandomBillingClass] [INFO] *** Started Randomly Selecting the Billing Class ***
+[Mon Apr 06 18:38:23 IST 2026] [com.telesoftlabs.testCases.Tc_AddExtension] [selectRandomBillingClass] [INFO] Total Billing Class: 2
+[Mon Apr 06 18:38:23 IST 2026] [com.telesoftlabs.testCases.Tc_AddExtension] [selectRandomBillingClass] [INFO] Selecting Billing Class: Pallavi
+[Mon Apr 06 18:38:24 IST 2026] [com.telesoftlabs.testCases.Tc_AddExtension] [addExtension] [INFO] Adding Extension User name is: Pallavi
+[Mon Apr 06 18:38:25 IST 2026] [com.telesoftlabs.testCases.Tc_AddExtension] [addExtension] [INFO] Adding Trunk Name is: JIO
+[Mon Apr 06 18:38:25 IST 2026] [com.telesoftlabs.testCases.Tc_AddExtension] [assertSnackbar] [INFO] Actual snackbar obtaining for adding Extension is: Extensions created successfully!
+[Mon Apr 06 18:38:25 IST 2026] [com.telesoftlabs.testCases.Tc_AddExtension] [addExtension] [INFO] Clicked on Close button
+[Mon Apr 06 18:38:25 IST 2026] [com.telesoftlabs.testCases.Tc_AddExtension] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/extension
+[Mon Apr 06 18:38:25 IST 2026] [com.telesoftlabs.testCases.Tc_AddExtension] [addExtension] [INFO] Extension Created Successfully....
+[Mon Apr 06 18:38:25 IST 2026] [com.telesoftlabs.testCases.Tc_LatestCDR] [latestCdr] [INFO] ****** Started Automating the LatestCDR page ******
+[Mon Apr 06 18:38:25 IST 2026] [com.telesoftlabs.testCases.Tc_LatestCDR] [latestCdr] [INFO] Total Locations: 2
+[Mon Apr 06 18:38:25 IST 2026] [com.telesoftlabs.testCases.Tc_LatestCDR] [latestCdr] [INFO] Location Dropdown Expanded......
+[Mon Apr 06 18:38:25 IST 2026] [com.telesoftlabs.testCases.Tc_LatestCDR] [latestCdr] [INFO] Checking Location: All
+[Mon Apr 06 18:38:26 IST 2026] [com.telesoftlabs.testCases.Tc_LatestCDR] [latestCdr] [INFO] Pagination: 0 of 0
+[Mon Apr 06 18:38:26 IST 2026] [com.telesoftlabs.testCases.Tc_LatestCDR] [latestCdr] [INFO] No records found for: All
+[Mon Apr 06 18:38:26 IST 2026] [com.telesoftlabs.testCases.Tc_LatestCDR] [latestCdr] [INFO] Clicking on the Location Dropdown to expand......
+[Mon Apr 06 18:38:26 IST 2026] [com.telesoftlabs.testCases.Tc_LatestCDR] [latestCdr] [INFO] Checking Location: Bengaluru
+[Mon Apr 06 18:38:27 IST 2026] [com.telesoftlabs.testCases.Tc_LatestCDR] [latestCdr] [INFO] Pagination: 0 of 0
+[Mon Apr 06 18:38:27 IST 2026] [com.telesoftlabs.testCases.Tc_LatestCDR] [latestCdr] [INFO] No records found for: Bengaluru
+[Mon Apr 06 18:38:27 IST 2026] [com.telesoftlabs.testCases.Tc_SearchPage] [verifySearchFunctionality] [INFO] ===== START: Search Functionality Test =====
+[Mon Apr 06 18:38:27 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [<init>] [INFO] SearchPage initialized
+[Mon Apr 06 18:38:27 IST 2026] [com.telesoftlabs.testCases.Tc_SearchPage] [verifySearchFunctionality] [INFO] Navigating to Search Page
+[Mon Apr 06 18:38:27 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [getSearchPage] [INFO] Accessing Search Page link
+[Mon Apr 06 18:38:28 IST 2026] [com.telesoftlabs.testCases.Tc_SearchPage] [verifySearchFunctionality] [INFO] Expand Button Status is: filter_alt
+[Mon Apr 06 18:38:28 IST 2026] [com.telesoftlabs.testCases.Tc_SearchPage] [verifySearchFunctionality] [INFO] Filters are visible......:) 
+[Mon Apr 06 18:38:28 IST 2026] [com.telesoftlabs.testCases.Tc_SearchPage] [verifySearchFunctionality] [INFO] Applying search filters
+[Mon Apr 06 18:38:28 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [applyFilters] [INFO] Applying filters...
+[Mon Apr 06 18:38:28 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [applyFilters] [INFO] Location: Bengaluru
+[Mon Apr 06 18:38:28 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [getLocationDropdown] [INFO] Accessing Location dropdown
+[Mon Apr 06 18:38:28 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [selectFromDropdown] [INFO] Selecting value: Bengaluru from dropdown
+[Mon Apr 06 18:38:28 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [selectFromDropdown] [INFO] Selected value: Bengaluru
+[Mon Apr 06 18:38:28 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [applyFilters] [INFO] Call Direction: Incoming
+[Mon Apr 06 18:38:28 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [getCallDirectionDropdown] [INFO] Accessing Call Direction dropdown
+[Mon Apr 06 18:38:28 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [selectFromDropdown] [INFO] Selecting value: Incoming from dropdown
+[Mon Apr 06 18:38:28 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [selectFromDropdown] [INFO] Selected value: Incoming
+[Mon Apr 06 18:38:28 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [applyFilters] [INFO] Duration: Any
+[Mon Apr 06 18:38:28 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [getDurationDropdown] [INFO] Accessing Duration dropdown
+[Mon Apr 06 18:38:28 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [selectFromDropdown] [INFO] Selecting value: Any from dropdown
+[Mon Apr 06 18:38:29 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [selectFromDropdown] [INFO] Selected value: Any
+[Mon Apr 06 18:38:29 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [applyFilters] [INFO] Call Type: Local
+[Mon Apr 06 18:38:29 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [getCallTypeDropdown] [INFO] Accessing Call Type dropdown
+[Mon Apr 06 18:38:29 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [selectFromDropdown] [INFO] Selecting value: Local from dropdown
+[Mon Apr 06 18:38:29 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [selectFromDropdown] [INFO] Selected value: Local
+[Mon Apr 06 18:38:29 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [applyFilters] [INFO] Extension: 
+[Mon Apr 06 18:38:29 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [getExtension] [INFO] Accessing Extension field
+[Mon Apr 06 18:38:29 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [applyFilters] [INFO] Trunk: 
+[Mon Apr 06 18:38:29 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [getTrunk] [INFO] Accessing Trunk field
+[Mon Apr 06 18:38:29 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [applyFilters] [INFO] Dialed Number/CLI: 
+[Mon Apr 06 18:38:29 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [getDialedNumberOrCLI] [INFO] Accessing Dialed Number/CLI field
+[Mon Apr 06 18:38:29 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [applyFilters] [INFO] Filters applied successfully
+[Mon Apr 06 18:38:29 IST 2026] [com.telesoftlabs.testCases.Tc_SearchPage] [verifySearchFunctionality] [INFO] Clicking on Search button using JavaScriptExecutor
+[Mon Apr 06 18:38:29 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [getSearchButton] [INFO] Accessing Search button
+[Mon Apr 06 18:38:29 IST 2026] [com.telesoftlabs.testCases.Tc_SearchPage] [verifySearchFunctionality] [INFO] Search triggered, validating results...
+[Mon Apr 06 18:38:30 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [isRecordsDisplayed] [INFO] Checking if records are displayed
+[Mon Apr 06 18:38:33 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [isRecordsDisplayed] [WARNING] Records not displayed
+[Mon Apr 06 18:38:33 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [isNoRecordsMessageDisplayed] [INFO] Checking for 'Records not available' message
+[Mon Apr 06 18:38:33 IST 2026] [com.telesoftlabs.pageObjects.SearchPage] [isNoRecordsMessageDisplayed] [INFO] 'Records not available' message is displayed
+[Mon Apr 06 18:38:33 IST 2026] [com.telesoftlabs.testCases.Tc_SearchPage] [verifySearchFunctionality] [WARNING] No records found for given filters
+[Mon Apr 06 18:38:33 IST 2026] [com.telesoftlabs.testCases.Tc_SearchPage] [verifySearchFunctionality] [INFO] ===== END: Search Functionality Test =====
+[Mon Apr 06 18:38:34 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportsPage] [INFO] Navigated to Reports Page
+[Mon Apr 06 18:38:34 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [selectLocationByIndex] [INFO] Location Dropdown Expanded......
+[Mon Apr 06 18:38:34 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [selectLocationByIndex] [INFO] Selected Location: Bengaluru
+[Mon Apr 06 18:38:36 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [selectReportType] [INFO] Selected Report Type: Summary
+[Mon Apr 06 18:38:38 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [getReportCount] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:38:39 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] ReportName Dropdown Expanded......
+[Mon Apr 06 18:38:39 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Extension Wise Incoming Call Summary
+[Mon Apr 06 18:38:39 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Extension Wise Incoming Call Summary
+[Mon Apr 06 18:38:39 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Extension Wise Incoming Call Summary
+[Mon Apr 06 18:38:39 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:38:39 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Extension Wise Outgoing Call Summary
+[Mon Apr 06 18:38:40 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Extension Wise Outgoing Call Summary
+[Mon Apr 06 18:38:40 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Extension Wise Outgoing Call Summary
+[Mon Apr 06 18:38:40 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:38:40 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Trunk Wise Incoming Call Summary
+[Mon Apr 06 18:38:41 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Trunk Wise Incoming Call Summary
+[Mon Apr 06 18:38:41 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Trunk Wise Incoming Call Summary
+[Mon Apr 06 18:38:41 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:38:41 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Trunk Wise Outgoing Call Summary
+[Mon Apr 06 18:38:42 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Trunk Wise Outgoing Call Summary
+[Mon Apr 06 18:38:42 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Trunk Wise Outgoing Call Summary
+[Mon Apr 06 18:38:42 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:38:42 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Department Wise Incoming Summary
+[Mon Apr 06 18:38:43 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Department Wise Incoming Summary
+[Mon Apr 06 18:38:43 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Department Wise Incoming Summary
+[Mon Apr 06 18:38:43 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:38:43 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Department Wise Outgoing Summary
+[Mon Apr 06 18:38:44 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Department Wise Outgoing Summary
+[Mon Apr 06 18:38:44 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Department Wise Outgoing Summary
+[Mon Apr 06 18:38:44 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [selectReportType] [INFO] Selected Report Type: Detailed
+[Mon Apr 06 18:38:46 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [getReportCount] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:38:46 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] ReportName Dropdown Expanded......
+[Mon Apr 06 18:38:46 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Incoming Call Report (Extension Wise)
+[Mon Apr 06 18:38:47 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Incoming Call Report (Extension Wise)
+[Mon Apr 06 18:38:47 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Incoming Call Report (Extension Wise)
+[Mon Apr 06 18:38:47 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:38:47 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Incoming Call Report (Date Wise)
+[Mon Apr 06 18:38:48 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Incoming Call Report (Date Wise)
+[Mon Apr 06 18:38:48 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Incoming Call Report (Date Wise)
+[Mon Apr 06 18:38:48 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:38:48 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Outgoing Call Report (Extension Wise)
+[Mon Apr 06 18:38:49 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Outgoing Call Report (Extension Wise)
+[Mon Apr 06 18:38:49 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Outgoing Call Report (Extension Wise)
+[Mon Apr 06 18:38:49 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:38:49 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Outgoing Call Report (Date Wise)
+[Mon Apr 06 18:38:50 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Outgoing Call Report (Date Wise)
+[Mon Apr 06 18:38:50 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Outgoing Call Report (Date Wise)
+[Mon Apr 06 18:38:50 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:38:50 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Department Wise Call Details
+[Mon Apr 06 18:38:51 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Department Wise Call Details
+[Mon Apr 06 18:38:51 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Department Wise Call Details
+[Mon Apr 06 18:38:51 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:38:51 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Internal Call Report (Date Wise)
+[Mon Apr 06 18:38:51 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Internal Call Report (Date Wise)
+[Mon Apr 06 18:38:52 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Internal Call Report (Date Wise)
+[Mon Apr 06 18:38:52 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:38:52 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Internal Call Report (Extension Wise)
+[Mon Apr 06 18:38:52 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Internal Call Report (Extension Wise)
+[Mon Apr 06 18:38:52 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Internal Call Report (Extension Wise)
+[Mon Apr 06 18:38:52 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:38:53 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Billing Class Report
+[Mon Apr 06 18:38:53 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Billing Class Report
+[Mon Apr 06 18:38:53 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Billing Class Report
+[Mon Apr 06 18:38:53 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:38:54 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Call Type Report
+[Mon Apr 06 18:38:54 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Call Type Report
+[Mon Apr 06 18:38:54 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Call Type Report
+[Mon Apr 06 18:38:54 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:38:54 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Longest Duration Call Report
+[Mon Apr 06 18:38:55 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Longest Duration Call Report
+[Mon Apr 06 18:38:55 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Longest Duration Call Report
+[Mon Apr 06 18:38:55 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:38:55 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Total Call Report
+[Mon Apr 06 18:38:56 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Total Call Report
+[Mon Apr 06 18:38:56 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Total Call Report
+[Mon Apr 06 18:38:56 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Clicking on the ReportName Dropdown to expand......
+[Mon Apr 06 18:38:56 IST 2026] [com.telesoftlabs.pageObjects.ReportsPage] [openReportByIndex] [INFO] Opened Report: Trunk Wise Call Report
+[Mon Apr 06 18:38:57 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [WARNING] No records for report: Trunk Wise Call Report
+[Mon Apr 06 18:38:57 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [executeReportsFlow] [INFO] Completed Report: Trunk Wise Call Report
+[Mon Apr 06 18:38:57 IST 2026] [com.telesoftlabs.testCases.Tc_ReportsValidation] [validateAllReports] [INFO] Completed for Location: Bengaluru
+[Mon Apr 06 18:38:58 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateUser] [updateUser] [INFO] ***** Started Updating the User *****
+[Mon Apr 06 18:38:59 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateUser] [assertSnackbar] [INFO] Actual snackbar obtaining for Updating Users is: User Update successfully
+[Mon Apr 06 18:38:59 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateUser] [updateUser] [INFO] Clicked on Close button
+[Mon Apr 06 18:38:59 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateUser] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/user
+[Mon Apr 06 18:38:59 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateUser] [updateUser] [INFO] User Updated Successfully....
+[Mon Apr 06 18:38:59 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateRoles] [updateRoles] [INFO] ****** Started Updating the Roles ******
+[Mon Apr 06 18:38:59 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateRoles] [updateRoles] [INFO] Updating Role: TESTING
+[Mon Apr 06 18:39:00 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateRoles] [assertSnackbar] [INFO] Actual snackbar obtaining for Updating Roles is: Role updated successfully
+[Mon Apr 06 18:39:00 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateRoles] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/roles
+[Mon Apr 06 18:39:00 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateRoles] [updateRoles] [INFO] Clicked on Close button
+[Mon Apr 06 18:39:00 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateRoles] [updateRoles] [INFO] Roles Updated Successfully......
+[Mon Apr 06 18:39:00 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateRegion] [updateRegion] [INFO] ***** started Updating Region *****
+[Mon Apr 06 18:39:01 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateRegion] [updateRegion] [INFO] Sub Menu not found.......
+[Mon Apr 06 18:39:01 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateRegion] [updateRegion] [INFO] Region Updated Successfully
+[Mon Apr 06 18:39:01 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateRegion] [assertSnackbar] [INFO] Actual snackbar obtaining for updating region is: Region Updated successfully!
+[Mon Apr 06 18:39:01 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateRegion] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/setup/call
+[Mon Apr 06 18:39:01 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateRegion] [updateRegion] [INFO] Clicked on Close button
+[Mon Apr 06 18:39:01 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateRegion] [updateRegion] [INFO] Region Updated Successfully......
+[Mon Apr 06 18:39:01 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateBillingClass] [updateBillingClass] [INFO] ***** started Updating Billing Class *****
+[Mon Apr 06 18:39:01 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateBillingClass] [updateBillingClass] [INFO] Displaying sub Menu....
+[Mon Apr 06 18:39:02 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateBillingClass] [assertSnackbar] [INFO] Actual snackbar obtaining for Updating Billing Class is: Billing Class Updated successfully!
+[Mon Apr 06 18:39:02 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateBillingClass] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/setup/call
+[Mon Apr 06 18:39:03 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateBillingClass] [updateBillingClass] [INFO] Clicked on Close button
+[Mon Apr 06 18:39:03 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateBillingClass] [updateBillingClass] [INFO] Billing Class Updated Successfully......
+[Mon Apr 06 18:39:03 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateBillingException] [UpdateBillingException] [INFO] ***** started Updating Billing Exception *****
+[Mon Apr 06 18:39:03 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateBillingException] [UpdateBillingException] [INFO] Displaying sub Menu....
+[Mon Apr 06 18:39:04 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateBillingException] [assertSnackbar] [INFO] Actual snackbar obtaining for Updating Billing Exception is: BillingException Updated successfully!
+[Mon Apr 06 18:39:04 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateBillingException] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/setup/call
+[Mon Apr 06 18:39:04 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateBillingException] [UpdateBillingException] [INFO] Clicked on Close button
+[Mon Apr 06 18:39:04 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateBillingException] [UpdateBillingException] [INFO] Billing Exception Updated Successfully......
+[Mon Apr 06 18:39:04 IST 2026] [com.telesoftlabs.testCases.Tc_UpdatePBX] [updatePBX] [INFO] ****** Started Updating PBX ******
+[Mon Apr 06 18:39:04 IST 2026] [com.telesoftlabs.testCases.Tc_UpdatePBX] [updatePBX] [INFO] Displaying sub Menu.....
+[Mon Apr 06 18:39:05 IST 2026] [com.telesoftlabs.testCases.Tc_UpdatePBX] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/setup/pbx
+[Mon Apr 06 18:39:05 IST 2026] [com.telesoftlabs.testCases.Tc_UpdatePBX] [assertSnackbar] [INFO] Actual snackbar obtaining for Updating PBX is: Pbx updated successfully!
+[Mon Apr 06 18:39:05 IST 2026] [com.telesoftlabs.testCases.Tc_UpdatePBX] [updatePBX] [INFO] Clicked on Close button
+[Mon Apr 06 18:39:05 IST 2026] [com.telesoftlabs.testCases.Tc_UpdatePBX] [updatePBX] [INFO] PBX Updated Successfully
+[Mon Apr 06 18:39:05 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateExtension] [searchExtension] [INFO] ****** Started Searching the Extension ******
+[Mon Apr 06 18:39:06 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateExtension] [searchExtension] [INFO] Searching Extensions to: 100
+[Mon Apr 06 18:39:06 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateExtension] [searchExtension] [INFO] Searching Extensions to: 
+[Mon Apr 06 18:39:06 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateExtension] [updateExtension] [INFO] ****** Started Updating the Extension ******
+[Mon Apr 06 18:39:06 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateExtension] [updateExtension] [INFO] No, 'Records Not Available' Message Found, continuing update extension process...
+[Mon Apr 06 18:39:06 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateExtension] [updateExtension] [INFO] Total Records Found: 2
+[Mon Apr 06 18:39:06 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateExtension] [updateExtension] [INFO] Updated Extension Username: Ext_1775480946774
+[Mon Apr 06 18:39:07 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateExtension] [updateExtension] [INFO] Actual Snackbar found: Extension updated successfully!
+[Mon Apr 06 18:39:07 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateExtension] [updateExtension] [INFO] Clicked on Close button
+[Mon Apr 06 18:39:07 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateExtension] [searchExtension] [INFO] ****** Started Searching the Extension ******
+[Mon Apr 06 18:39:08 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateExtension] [searchExtension] [INFO] Searching Extensions to: 100
+[Mon Apr 06 18:39:08 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateExtension] [searchExtension] [INFO] Searching Extensions to: 
+[Mon Apr 06 18:39:08 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateExtension] [updateExtension] [INFO] Expected Name: Ext_1775480946774
+[Mon Apr 06 18:39:08 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateExtension] [updateExtension] [INFO] Actual Name from UI: Ext_1775480946774
+[Mon Apr 06 18:39:08 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateExtension] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/extension
+[Mon Apr 06 18:39:08 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateLocationProperties] [updateLocationProperties] [INFO] ****** Started Updating Location Properties ******
+[Mon Apr 06 18:39:08 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateLocationProperties] [updateLocationProperties] [INFO] Sub Menu Not Displayed, clicking on the Setup button.........
+[Mon Apr 06 18:39:10 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateLocationProperties] [updateLocationProperties] [INFO] Location Property Updated Successfully....
+[Mon Apr 06 18:39:14 IST 2026] [com.telesoftlabs.testCases.Tc_UpdateLocationProperties] [updateLocationProperties] [SEVERE] Failed to Update Location Properties.........:( Unable to locate element: //span[contains(text(),' Close ')]
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [ea0eb316-c6e5-4cd4-9505-aa4c5b91317b, findElement {using=xpath, value=//span[contains(text(),' Close ')]}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 146.0.1, moz:accessibilityChecks: false, moz:buildID: 20251217121356, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 1464, moz:profile: C:\Users\suppo\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: ea0eb316-c6e5-4cd4-9505-aa4c5b91317b
+[Mon Apr 06 18:39:14 IST 2026] [com.telesoftlabs.testCases.Tc_ImportExtension] [importExtensions] [INFO] ****** Started Importing the Extensions ******
+[Mon Apr 06 18:39:14 IST 2026] [com.telesoftlabs.testCases.Tc_ImportExtension] [importExtensions] [INFO] Count of Extensions before Import is: 1
+[Mon Apr 06 18:39:14 IST 2026] [com.telesoftlabs.testCases.Tc_ImportExtension] [importExtensions] [INFO] Application Path is: C:\pallavi\Projects\Workspace\CallAudit
+[Mon Apr 06 18:39:14 IST 2026] [com.telesoftlabs.testCases.Tc_ImportExtension] [importExtensions] [INFO] Directory Path is: C:\pallavi\Projects\Workspace\CallAudit\ImportFiles\Extension
+[Mon Apr 06 18:39:14 IST 2026] [com.telesoftlabs.testCases.Tc_ImportExtension] [importExtensions] [INFO] Selected Extension file is: C:\pallavi\Projects\Workspace\CallAudit\ImportFiles\Extension\Extension.csv
+[Mon Apr 06 18:39:19 IST 2026] [com.telesoftlabs.testCases.Tc_ImportExtension] [importExtensions] [INFO] Count of Extensions Imported is: 1
+[Mon Apr 06 18:39:19 IST 2026] [com.telesoftlabs.testCases.Tc_ImportExtension] [importExtensions] [INFO] Clicked on Close button
+[Mon Apr 06 18:39:19 IST 2026] [com.telesoftlabs.testCases.Tc_ImportExtension] [importExtensions] [INFO] Count of Extensions After Import is: 2
+[Mon Apr 06 18:39:19 IST 2026] [com.telesoftlabs.testCases.Tc_ImportExtension] [importExtensions] [INFO] Extensions Imported Successfully....
+[Mon Apr 06 18:39:19 IST 2026] [com.telesoftlabs.testCases.Tc_ImportExtension] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/extension
+[Mon Apr 06 18:39:19 IST 2026] [com.telesoftlabs.testCases.Tc_ExportExtensions] [exportExtensions] [INFO] ****** Started Exporting the Extensions ******
+[Mon Apr 06 18:39:20 IST 2026] [com.telesoftlabs.testCases.Tc_ExportExtensions] [exportExtensions] [INFO] Obtained Snackbar is: Export successful!
+[Mon Apr 06 18:39:20 IST 2026] [com.telesoftlabs.testCases.Tc_ExportExtensions] [assertSnackbar] [INFO] Export completed successfully
+[Mon Apr 06 18:39:20 IST 2026] [com.telesoftlabs.testCases.Tc_ExportExtensions] [exportExtensions] [INFO] Clicked on Close button
+[Mon Apr 06 18:39:20 IST 2026] [com.telesoftlabs.testCases.Tc_ExportExtensions] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/extension
+[Mon Apr 06 18:39:20 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteUser] [deleteUser] [INFO] ***** Started Deleting the User *****
+[Mon Apr 06 18:39:20 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteUser] [deleteUser] [INFO] Deleting the user: Pallavi
+[Mon Apr 06 18:39:21 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteUser] [assertSnackbar] [INFO] Actual snackbar obtaining for Delete Users is: User deleted successfully
+[Mon Apr 06 18:39:21 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteUser] [deleteUser] [INFO] Clicked on Close button
+[Mon Apr 06 18:39:21 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteUser] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/user
+[Mon Apr 06 18:39:21 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteUser] [deleteUser] [INFO] User Deleted Successfully....
+[Mon Apr 06 18:39:21 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteExtension] [searchExtension] [INFO] ****** Started Searching the Extension ******
+[Mon Apr 06 18:39:21 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteExtension] [searchExtension] [INFO] Searching Extensions to: 100
+[Mon Apr 06 18:39:22 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteExtension] [searchExtension] [INFO] Searching Extensions to: 
+[Mon Apr 06 18:39:22 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteExtension] [deleteExtension] [INFO] ****** Started Deleting the Extension ******
+[Mon Apr 06 18:39:22 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteExtension] [deleteExtension] [INFO] No, 'Records Not Available' Message Found, continuing delete extension process...
+[Mon Apr 06 18:39:22 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteExtension] [deleteExtension] [INFO] Total Records Found: 3
+[Mon Apr 06 18:39:23 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteExtension] [deleteExtension] [INFO] Actual Snackbar found: extension deleted successfully
+[Mon Apr 06 18:39:23 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteExtension] [deleteExtension] [INFO] Clicked on Close button
+[Mon Apr 06 18:39:23 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteExtension] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/extension
+[Mon Apr 06 18:39:23 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteLocationProperties] [deleteLocationProperties] [INFO] ****** Started Deleting Location Properties ******
+[Mon Apr 06 18:39:23 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteLocationProperties] [deleteLocationProperties] [INFO] Sub Menu Not Displayed, clicking on the Setup button.........
+[Mon Apr 06 18:39:24 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteLocationProperties] [deleteLocationProperties] [INFO] Location Property deleted Successfully....
+[Mon Apr 06 18:39:25 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteLocationProperties] [assertSnackbar] [INFO] Actual snackbar obtaining for deleting Location Properties is: Properties deleted successfully.
+[Mon Apr 06 18:39:25 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteLocationProperties] [assertSnackbar] [INFO] Clicked on Close button
+[Mon Apr 06 18:39:25 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteLocationProperties] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/setup/locationproperties
+[Mon Apr 06 18:39:25 IST 2026] [com.telesoftlabs.testCases.Tc_DeletePBX] [deletePBX] [INFO] ****** Started Deleting PBX ******
+[Mon Apr 06 18:39:25 IST 2026] [com.telesoftlabs.testCases.Tc_DeletePBX] [deletePBX] [INFO] Displaying sub Menu....
+[Mon Apr 06 18:39:26 IST 2026] [com.telesoftlabs.testCases.Tc_DeletePBX] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/setup/pbx
+[Mon Apr 06 18:39:26 IST 2026] [com.telesoftlabs.testCases.Tc_DeletePBX] [assertSnackbar] [INFO] Actual snackbar obtaining for deleting PBX is: Pbx data deleted successfully
+[Mon Apr 06 18:39:26 IST 2026] [com.telesoftlabs.testCases.Tc_DeletePBX] [deletePBX] [INFO] Clicked on Close button
+[Mon Apr 06 18:39:26 IST 2026] [com.telesoftlabs.testCases.Tc_DeletePBX] [deletePBX] [INFO] PBX deleted Successfully
+[Mon Apr 06 18:39:26 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteRegion] [deleteRegion] [INFO] ***** started Deleting Region *****
+[Mon Apr 06 18:39:26 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteRegion] [deleteRegion] [INFO] Displaying sub Menu....
+[Mon Apr 06 18:39:26 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteRegion] [deleteRegion] [INFO] Region Deleted Successfully
+[Mon Apr 06 18:39:27 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteRegion] [assertSnackbar] [INFO] Actual snackbar obtaining for deleting region is: India deleted successfully
+[Mon Apr 06 18:39:27 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteRegion] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/setup/call
+[Mon Apr 06 18:39:27 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteRegion] [deleteRegion] [INFO] Clicked on Close button
+[Mon Apr 06 18:39:27 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteRegion] [deleteRegion] [INFO] Region Deleted Successfully......
+[Mon Apr 06 18:39:27 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteBillingClass] [deleteBillingClass] [INFO] ***** started Deleting Billing Class *****
+[Mon Apr 06 18:39:27 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteBillingClass] [deleteBillingClass] [INFO] Displaying sub Menu....
+[Mon Apr 06 18:39:28 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteBillingClass] [assertSnackbar] [INFO] Actual snackbar obtaining for deleting Billing Class is: Billing class deleted successfully
+[Mon Apr 06 18:39:28 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteBillingClass] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/setup/call
+[Mon Apr 06 18:39:28 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteBillingClass] [deleteBillingClass] [INFO] Clicked on Close button
+[Mon Apr 06 18:39:28 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteBillingClass] [deleteBillingClass] [INFO] Billing Class Deleted Successfully......
+[Mon Apr 06 18:39:28 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteBillingException] [deleteBillingException] [INFO] ***** started Deleting Billing Exception *****
+[Mon Apr 06 18:39:28 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteBillingException] [deleteBillingException] [INFO] Displaying sub Menu....
+[Mon Apr 06 18:39:29 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteBillingException] [assertSnackbar] [INFO] Actual snackbar obtaining for deleting Billing Exception is: Billing Exception deleted successfully
+[Mon Apr 06 18:39:29 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteBillingException] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/setup/call
+[Mon Apr 06 18:39:29 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteBillingException] [deleteBillingException] [INFO] Clicked on Close button
+[Mon Apr 06 18:39:29 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteBillingException] [deleteBillingException] [INFO] Billing Exception Deleted Successfully......
+[Mon Apr 06 18:39:29 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteRoles] [deleteRoles] [INFO] ****** Started Deleting Roles ******
+[Mon Apr 06 18:39:30 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteRoles] [deleteRoles] [INFO] Role TESTING Deleted
+[Mon Apr 06 18:39:30 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteRoles] [assertSnackbar] [INFO] Actual snackbar obtaining for Updating Roles is: Role deleted successfully
+[Mon Apr 06 18:39:30 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteRoles] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/roles
+[Mon Apr 06 18:39:30 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteRoles] [deleteRoles] [INFO] Clicked on Close button
+[Mon Apr 06 18:39:30 IST 2026] [com.telesoftlabs.testCases.Tc_DeleteRoles] [deleteRoles] [INFO] Roles Deleted Successfully......
+[Mon Apr 06 18:39:30 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateTodayAnalysis] [INFO] ===== TODAY ANALYSIS TEST START =====
+[Mon Apr 06 18:39:31 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Clicking Duration dropdown
+[Mon Apr 06 18:39:31 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Selecting duration: Today
+[Mon Apr 06 18:39:31 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Duration selected successfully
+[Mon Apr 06 18:39:31 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for loader to disappear
+[Mon Apr 06 18:39:31 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for Call Summary tab visibility
+[Mon Apr 06 18:39:31 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Dashboard loaded
+[Mon Apr 06 18:39:31 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Validating charts visibility
+[Mon Apr 06 18:39:31 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Charts validation completed
+[Mon Apr 06 18:39:31 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateNoRecordsMessage] [WARNING] Using default validation without date range
+[Mon Apr 06 18:39:31 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateTodayAnalysis] [INFO] ===== TODAY ANALYSIS TEST END =====
+[Mon Apr 06 18:39:31 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateThisMonthAnalysis] [INFO] ===== THIS MONTH TEST START =====
+[Mon Apr 06 18:39:31 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Clicking Duration dropdown
+[Mon Apr 06 18:39:32 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Selecting duration: This Month
+[Mon Apr 06 18:39:32 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Duration selected successfully
+[Mon Apr 06 18:39:32 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for loader to disappear
+[Mon Apr 06 18:39:32 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for Call Summary tab visibility
+[Mon Apr 06 18:39:32 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Dashboard loaded
+[Mon Apr 06 18:39:32 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Validating charts visibility
+[Mon Apr 06 18:39:32 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Charts validation completed
+[Mon Apr 06 18:39:32 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateNoRecordsMessage] [WARNING] Using default validation without date range
+[Mon Apr 06 18:39:32 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateThisMonthAnalysis] [INFO] ===== THIS MONTH TEST END =====
+[Mon Apr 06 18:39:32 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateDateBetweenAnalysis] [INFO] ===== DATE BETWEEN TEST START =====
+[Mon Apr 06 18:39:32 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Clicking Duration dropdown
+[Mon Apr 06 18:39:32 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Selecting duration: Date Between Analysis
+[Mon Apr 06 18:39:33 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Duration selected successfully
+[Mon Apr 06 18:39:33 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for loader to disappear
+[Mon Apr 06 18:39:33 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for Call Summary tab visibility
+[Mon Apr 06 18:39:33 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Dashboard loaded
+[Mon Apr 06 18:39:33 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateDateBetweenAnalysis] [INFO] Applying date range from config: 01/Feb/2026  → 06/Apr/2026
+[Mon Apr 06 18:39:33 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDateBetween] [INFO] Entering From Date: 01/Feb/2026 
+[Mon Apr 06 18:39:33 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDateBetween] [INFO] Entering To Date: 06/Apr/2026
+[Mon Apr 06 18:39:33 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDateBetween] [INFO] Clicking Apply Filter button
+[Mon Apr 06 18:39:33 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for loader to disappear
+[Mon Apr 06 18:39:33 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for Call Summary tab visibility
+[Mon Apr 06 18:39:33 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Dashboard loaded
+[Mon Apr 06 18:39:33 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Validating charts visibility
+[Mon Apr 06 18:39:33 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Charts validation completed
+[Mon Apr 06 18:39:33 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateNoRecordsMessage] [WARNING] Using default validation without date range
+[Mon Apr 06 18:39:34 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateDateBetweenAnalysis] [INFO] ===== DATE BETWEEN TEST END =====
+[Mon Apr 06 18:39:36 IST 2026] [com.telesoftlabs.testCases.BaseClass] [tearDown] [INFO] Browser closed and driver instance terminated.
+[Tue Apr 07 11:50:41 IST 2026] [com.telesoftlabs.testCases.BaseClass] [setup] [INFO] Browser initialized: firefox
+[Tue Apr 07 11:50:41 IST 2026] [com.telesoftlabs.testCases.BaseClass] [setup] [INFO] Browser Launched 
+[Tue Apr 07 11:50:42 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateDateBetweenAnalysis] [INFO] ===== DATE BETWEEN TEST START =====
+[Tue Apr 07 11:50:43 IST 2026] [com.telesoftlabs.testCases.BaseClass] [tearDown] [INFO] Browser closed and driver instance terminated.
+[Tue Apr 07 11:51:08 IST 2026] [com.telesoftlabs.testCases.BaseClass] [setup] [INFO] Browser initialized: firefox
+[Tue Apr 07 11:51:08 IST 2026] [com.telesoftlabs.testCases.BaseClass] [setup] [INFO] Browser Launched 
+[Tue Apr 07 11:51:08 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateDateBetweenAnalysis] [INFO] ===== DATE BETWEEN TEST START =====
+[Tue Apr 07 11:51:10 IST 2026] [com.telesoftlabs.testCases.BaseClass] [tearDown] [INFO] Browser closed and driver instance terminated.
+[Tue Apr 07 11:51:33 IST 2026] [com.telesoftlabs.testCases.BaseClass] [setup] [INFO] Browser initialized: firefox
+[Tue Apr 07 11:51:33 IST 2026] [com.telesoftlabs.testCases.BaseClass] [setup] [INFO] Browser Launched 
+[Tue Apr 07 11:51:33 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [login] [INFO] ===== LOGIN TEST START =====
+[Tue Apr 07 11:51:35 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Login Username is: admin
+[Tue Apr 07 11:51:35 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Login Password is: Telesuite@8765
+[Tue Apr 07 11:51:36 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [handleSessionConflict] [WARNING] Found Session conflict modal, need to logout from the other session which is currently active.
+[Tue Apr 07 11:51:36 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [handleSessionConflict] [INFO] Clicked on confirmation(OK) button, to logout from the active session.
+[Tue Apr 07 11:51:36 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Login to the application [Telesuite - Dashboard] is successfull
+[Tue Apr 07 11:51:36 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Expected URL is: http://192.168.100.142/cas/dashboard
+[Tue Apr 07 11:51:36 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Actual URL is: http://192.168.100.142/cas/dashboard
+[Tue Apr 07 11:51:36 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Actual snackbar is: User logged in successfully.
+[Tue Apr 07 11:51:37 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Clicked on Close button
+[Tue Apr 07 11:51:37 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Login successfull.......:)
+[Tue Apr 07 11:51:37 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [login] [INFO] Login successful
+[Tue Apr 07 11:51:37 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateTodayAnalysis] [INFO] ===== TODAY ANALYSIS TEST START =====
+[Tue Apr 07 11:51:37 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Clicking Duration dropdown
+[Tue Apr 07 11:51:37 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Selecting duration: Today
+[Tue Apr 07 11:51:37 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Duration selected successfully
+[Tue Apr 07 11:51:37 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for loader to disappear
+[Tue Apr 07 11:51:37 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for Call Summary tab visibility
+[Tue Apr 07 11:51:37 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Dashboard loaded
+[Tue Apr 07 11:51:37 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Validating charts visibility
+[Tue Apr 07 11:51:37 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Charts validation completed
+[Tue Apr 07 11:51:37 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateNoRecordsMessage] [WARNING] Using default validation without date range
+[Tue Apr 07 11:51:38 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateTodayAnalysis] [INFO] ===== TODAY ANALYSIS TEST END =====
+[Tue Apr 07 11:51:38 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateThisMonthAnalysis] [INFO] ===== THIS MONTH TEST START =====
+[Tue Apr 07 11:51:38 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Clicking Duration dropdown
+[Tue Apr 07 11:51:38 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Selecting duration: This Month
+[Tue Apr 07 11:51:38 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Duration selected successfully
+[Tue Apr 07 11:51:38 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for loader to disappear
+[Tue Apr 07 11:51:38 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for Call Summary tab visibility
+[Tue Apr 07 11:51:38 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Dashboard loaded
+[Tue Apr 07 11:51:38 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Validating charts visibility
+[Tue Apr 07 11:51:38 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Charts validation completed
+[Tue Apr 07 11:51:38 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateNoRecordsMessage] [WARNING] Using default validation without date range
+[Tue Apr 07 11:51:38 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateThisMonthAnalysis] [INFO] ===== THIS MONTH TEST END =====
+[Tue Apr 07 11:51:38 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateDateBetweenAnalysis] [INFO] ===== DATE BETWEEN TEST START =====
+[Tue Apr 07 11:51:39 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Clicking Duration dropdown
+[Tue Apr 07 11:51:39 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Selecting duration: Date Between Analysis
+[Tue Apr 07 11:51:39 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Duration selected successfully
+[Tue Apr 07 11:51:39 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for loader to disappear
+[Tue Apr 07 11:51:39 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for Call Summary tab visibility
+[Tue Apr 07 11:51:39 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Dashboard loaded
+[Tue Apr 07 11:51:39 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateDateBetweenAnalysis] [INFO] Applying date range from config: 01/Feb/2026 → 06/Apr/2026
+[Tue Apr 07 11:51:39 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDateBetween] [INFO] Entering From Date: 01/Feb/2026
+[Tue Apr 07 11:51:39 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDateBetween] [INFO] Entering To Date: 06/Apr/2026
+[Tue Apr 07 11:51:39 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDateBetween] [INFO] Clicking Apply Filter button
+[Tue Apr 07 11:51:40 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for loader to disappear
+[Tue Apr 07 11:51:40 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for Call Summary tab visibility
+[Tue Apr 07 11:51:40 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Dashboard loaded
+[Tue Apr 07 11:51:40 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Validating charts visibility
+[Tue Apr 07 11:51:40 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Charts validation completed
+[Tue Apr 07 11:51:40 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateNoRecordsMessage] [WARNING] Using default validation without date range
+[Tue Apr 07 11:51:40 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateDateBetweenAnalysis] [INFO] ===== DATE BETWEEN TEST END =====
+[Tue Apr 07 11:51:41 IST 2026] [com.telesoftlabs.testCases.BaseClass] [tearDown] [INFO] Browser closed and driver instance terminated.
+[Tue Apr 07 12:24:30 IST 2026] [com.telesoftlabs.testCases.BaseClass] [setup] [INFO] Browser initialized: firefox
+[Tue Apr 07 12:24:31 IST 2026] [com.telesoftlabs.testCases.BaseClass] [setup] [INFO] Browser Launched 
+[Tue Apr 07 12:24:32 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Login Username is: admin
+[Tue Apr 07 12:24:32 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Login Password is: Telesuite@8765
+[Tue Apr 07 12:24:34 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Session conflict modal not found 
+[Tue Apr 07 12:24:34 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Login to the application [Telesuite - Dashboard] is successfull
+[Tue Apr 07 12:24:34 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Expected URL is: http://192.168.100.142/cas/dashboard
+[Tue Apr 07 12:24:34 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Actual URL is: http://192.168.100.142/cas/dashboard
+[Tue Apr 07 12:24:34 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Actual snackbar is: User logged in successfully.
+[Tue Apr 07 12:24:34 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Clicked on Close button
+[Tue Apr 07 12:24:34 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Login successfull.......:)
+[Tue Apr 07 12:24:34 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateTodayAnalysis] [INFO] ===== TODAY ANALYSIS TEST START =====
+[Tue Apr 07 12:24:34 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Clicking Duration dropdown
+[Tue Apr 07 12:24:34 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Selecting duration: Today
+[Tue Apr 07 12:24:34 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Duration selected successfully
+[Tue Apr 07 12:24:34 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for loader to disappear
+[Tue Apr 07 12:24:34 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for Call Summary tab visibility
+[Tue Apr 07 12:24:34 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Dashboard loaded
+[Tue Apr 07 12:24:34 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Validating charts visibility
+[Tue Apr 07 12:24:35 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Charts validation completed
+[Tue Apr 07 12:24:35 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateNoRecordsMessage] [WARNING] Using default validation without date range
+[Tue Apr 07 12:24:35 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateTodayAnalysis] [INFO] ===== TODAY ANALYSIS TEST END =====
+[Tue Apr 07 12:24:35 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateThisMonthAnalysis] [INFO] ===== THIS MONTH TEST START =====
+[Tue Apr 07 12:24:35 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Clicking Duration dropdown
+[Tue Apr 07 12:24:35 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Selecting duration: This Month
+[Tue Apr 07 12:24:35 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Duration selected successfully
+[Tue Apr 07 12:24:35 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for loader to disappear
+[Tue Apr 07 12:24:35 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for Call Summary tab visibility
+[Tue Apr 07 12:24:35 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Dashboard loaded
+[Tue Apr 07 12:24:35 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Validating charts visibility
+[Tue Apr 07 12:24:35 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Charts validation completed
+[Tue Apr 07 12:24:35 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateNoRecordsMessage] [WARNING] Using default validation without date range
+[Tue Apr 07 12:24:36 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateThisMonthAnalysis] [INFO] ===== THIS MONTH TEST END =====
+[Tue Apr 07 12:24:36 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateDateBetweenAnalysis] [INFO] ===== DATE BETWEEN TEST START =====
+[Tue Apr 07 12:24:36 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Clicking Duration dropdown
+[Tue Apr 07 12:24:36 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Selecting duration: Date Between Analysis
+[Tue Apr 07 12:24:36 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Duration selected successfully
+[Tue Apr 07 12:24:36 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for loader to disappear
+[Tue Apr 07 12:24:36 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for Call Summary tab visibility
+[Tue Apr 07 12:24:36 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Dashboard loaded
+[Tue Apr 07 12:24:36 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateDateBetweenAnalysis] [INFO] Applying date range from config: 01/Feb/2026 → 06/Apr/2026
+[Tue Apr 07 12:24:36 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDateBetween] [INFO] Entering From Date: 01/Feb/2026
+[Tue Apr 07 12:24:37 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDateBetween] [INFO] Entering To Date: 06/Apr/2026
+[Tue Apr 07 12:24:37 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDateBetween] [INFO] Clicking Apply Filter button
+[Tue Apr 07 12:24:37 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for loader to disappear
+[Tue Apr 07 12:24:37 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for Call Summary tab visibility
+[Tue Apr 07 12:24:37 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Dashboard loaded
+[Tue Apr 07 12:24:37 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Validating charts visibility
+[Tue Apr 07 12:24:37 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Charts validation completed
+[Tue Apr 07 12:24:37 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateNoRecordsMessage] [WARNING] Using default validation without date range
+[Tue Apr 07 12:24:37 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateDateBetweenAnalysis] [INFO] ===== DATE BETWEEN TEST END =====
+[Tue Apr 07 12:24:39 IST 2026] [com.telesoftlabs.testCases.BaseClass] [tearDown] [INFO] Browser closed and driver instance terminated.
+[Tue Apr 07 12:27:45 IST 2026] [com.telesoftlabs.testCases.BaseClass] [setup] [INFO] Browser initialized: firefox
+[Tue Apr 07 12:27:46 IST 2026] [com.telesoftlabs.testCases.BaseClass] [setup] [INFO] Browser Launched 
+[Tue Apr 07 12:27:47 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Login Username is: admin
+[Tue Apr 07 12:27:47 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Login Password is: Telesuite@8765
+[Tue Apr 07 12:27:48 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Session conflict modal not found 
+[Tue Apr 07 12:27:48 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Login to the application [Telesuite - Dashboard] is successfull
+[Tue Apr 07 12:27:48 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Expected URL is: http://192.168.100.142/cas/dashboard
+[Tue Apr 07 12:27:48 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Actual URL is: http://192.168.100.142/cas/dashboard
+[Tue Apr 07 12:27:48 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Actual snackbar is: User logged in successfully.
+[Tue Apr 07 12:27:48 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Clicked on Close button
+[Tue Apr 07 12:27:48 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Login successfull.......:)
+[Tue Apr 07 12:27:48 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateTodayAnalysis] [INFO] ===== TODAY ANALYSIS TEST START =====
+[Tue Apr 07 12:27:48 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Clicking Duration dropdown
+[Tue Apr 07 12:27:48 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Selecting duration: Today
+[Tue Apr 07 12:27:49 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Duration selected successfully
+[Tue Apr 07 12:27:49 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for loader to disappear
+[Tue Apr 07 12:27:49 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for Call Summary tab visibility
+[Tue Apr 07 12:27:49 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Dashboard loaded
+[Tue Apr 07 12:27:49 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Validating charts visibility
+[Tue Apr 07 12:27:49 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Charts validation completed
+[Tue Apr 07 12:27:49 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateNoRecordsMessage] [WARNING] Using default validation without date range
+[Tue Apr 07 12:27:49 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateTodayAnalysis] [INFO] ===== TODAY ANALYSIS TEST END =====
+[Tue Apr 07 12:27:49 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateThisMonthAnalysis] [INFO] ===== THIS MONTH TEST START =====
+[Tue Apr 07 12:27:49 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Clicking Duration dropdown
+[Tue Apr 07 12:27:49 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Selecting duration: This Month
+[Tue Apr 07 12:27:50 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Duration selected successfully
+[Tue Apr 07 12:27:50 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for loader to disappear
+[Tue Apr 07 12:27:50 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for Call Summary tab visibility
+[Tue Apr 07 12:27:50 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Dashboard loaded
+[Tue Apr 07 12:27:50 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Validating charts visibility
+[Tue Apr 07 12:27:50 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Charts validation completed
+[Tue Apr 07 12:27:50 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateNoRecordsMessage] [WARNING] Using default validation without date range
+[Tue Apr 07 12:27:50 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateThisMonthAnalysis] [INFO] ===== THIS MONTH TEST END =====
+[Tue Apr 07 12:27:50 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateDateBetweenAnalysis] [INFO] ===== DATE BETWEEN TEST START =====
+[Tue Apr 07 12:27:50 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Clicking Duration dropdown
+[Tue Apr 07 12:27:50 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Selecting duration: Date Between Analysis
+[Tue Apr 07 12:27:50 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Duration selected successfully
+[Tue Apr 07 12:27:50 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for loader to disappear
+[Tue Apr 07 12:27:51 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for Call Summary tab visibility
+[Tue Apr 07 12:27:51 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Dashboard loaded
+[Tue Apr 07 12:27:51 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateDateBetweenAnalysis] [INFO] Applying date range from config: 01/Feb/2026 → 06/Apr/2026
+[Tue Apr 07 12:27:51 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDateBetween] [INFO] Entering From Date: 01/Feb/2026
+[Tue Apr 07 12:27:51 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDateBetween] [INFO] Entering To Date: 06/Apr/2026
+[Tue Apr 07 12:27:51 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDateBetween] [INFO] Clicking Apply Filter button
+[Tue Apr 07 12:27:51 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for loader to disappear
+[Tue Apr 07 12:27:51 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for Call Summary tab visibility
+[Tue Apr 07 12:27:51 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Dashboard loaded
+[Tue Apr 07 12:27:51 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Validating charts visibility
+[Tue Apr 07 12:27:51 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Charts validation completed
+[Tue Apr 07 12:27:51 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateNoRecordsMessage] [WARNING] Using default validation without date range
+[Tue Apr 07 12:27:52 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateDateBetweenAnalysis] [INFO] ===== DATE BETWEEN TEST END =====
+[Tue Apr 07 12:27:53 IST 2026] [com.telesoftlabs.testCases.BaseClass] [tearDown] [INFO] Browser closed and driver instance terminated.
+[Tue Apr 07 12:29:17 IST 2026] [com.telesoftlabs.testCases.BaseClass] [setup] [INFO] Browser initialized: firefox
+[Tue Apr 07 12:29:18 IST 2026] [com.telesoftlabs.testCases.BaseClass] [setup] [INFO] Browser Launched 
+[Tue Apr 07 12:29:19 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Login Username is: admin
+[Tue Apr 07 12:29:19 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Login Password is: Telesuite@8765
+[Tue Apr 07 12:29:20 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Session conflict modal not found 
+[Tue Apr 07 12:29:21 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Login to the application [Telesuite - Dashboard] is successfull
+[Tue Apr 07 12:29:21 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Expected URL is: http://192.168.100.142/cas/dashboard
+[Tue Apr 07 12:29:21 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Actual URL is: http://192.168.100.142/cas/dashboard
+[Tue Apr 07 12:29:21 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Actual snackbar is: User logged in successfully.
+[Tue Apr 07 12:29:21 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Clicked on Close button
+[Tue Apr 07 12:29:21 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Login successfull.......:)
+[Tue Apr 07 12:29:21 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateTodayAnalysis] [INFO] ===== TODAY ANALYSIS TEST START =====
+[Tue Apr 07 12:29:21 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Clicking Duration dropdown
+[Tue Apr 07 12:29:21 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Selecting duration: Today
+[Tue Apr 07 12:29:21 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Duration selected successfully
+[Tue Apr 07 12:29:21 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for loader to disappear
+[Tue Apr 07 12:29:21 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for Call Summary tab visibility
+[Tue Apr 07 12:29:21 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Dashboard loaded
+[Tue Apr 07 12:29:21 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Validating charts visibility
+[Tue Apr 07 12:29:21 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Charts validation completed
+[Tue Apr 07 12:29:21 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateNoRecordsMessage] [WARNING] Using default validation without date range
+[Tue Apr 07 12:29:22 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateTodayAnalysis] [INFO] ===== TODAY ANALYSIS TEST END =====
+[Tue Apr 07 12:29:22 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateThisMonthAnalysis] [INFO] ===== THIS MONTH TEST START =====
+[Tue Apr 07 12:29:22 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Clicking Duration dropdown
+[Tue Apr 07 12:29:22 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Selecting duration: This Month
+[Tue Apr 07 12:29:22 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Duration selected successfully
+[Tue Apr 07 12:29:22 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for loader to disappear
+[Tue Apr 07 12:29:22 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for Call Summary tab visibility
+[Tue Apr 07 12:29:22 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Dashboard loaded
+[Tue Apr 07 12:29:22 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Validating charts visibility
+[Tue Apr 07 12:29:22 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Charts validation completed
+[Tue Apr 07 12:29:22 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateNoRecordsMessage] [WARNING] Using default validation without date range
+[Tue Apr 07 12:29:23 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateThisMonthAnalysis] [INFO] ===== THIS MONTH TEST END =====
+[Tue Apr 07 12:29:23 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateDateBetweenAnalysis] [INFO] ===== DATE BETWEEN TEST START =====
+[Tue Apr 07 12:29:23 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Clicking Duration dropdown
+[Tue Apr 07 12:29:23 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Selecting duration: Date Between Analysis
+[Tue Apr 07 12:29:23 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Duration selected successfully
+[Tue Apr 07 12:29:23 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for loader to disappear
+[Tue Apr 07 12:29:23 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for Call Summary tab visibility
+[Tue Apr 07 12:29:23 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Dashboard loaded
+[Tue Apr 07 12:29:23 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateDateBetweenAnalysis] [INFO] Applying date range from config: 01/Feb/2026 → 06/Apr/2026
+[Tue Apr 07 12:29:23 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDateBetween] [INFO] Entering From Date: 01/Feb/2026
+[Tue Apr 07 12:29:23 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDateBetween] [INFO] Entering To Date: 06/Apr/2026
+[Tue Apr 07 12:29:24 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDateBetween] [INFO] Clicking Apply Filter button
+[Tue Apr 07 12:29:24 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for loader to disappear
+[Tue Apr 07 12:29:24 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for Call Summary tab visibility
+[Tue Apr 07 12:29:24 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Dashboard loaded
+[Tue Apr 07 12:29:24 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Validating charts visibility
+[Tue Apr 07 12:29:24 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Charts validation completed
+[Tue Apr 07 12:29:24 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateNoRecordsMessage] [WARNING] Using default validation without date range
+[Tue Apr 07 12:29:24 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateDateBetweenAnalysis] [INFO] ===== DATE BETWEEN TEST END =====
+[Tue Apr 07 12:29:26 IST 2026] [com.telesoftlabs.testCases.BaseClass] [tearDown] [INFO] Browser closed and driver instance terminated.
+[Tue Apr 07 12:29:30 IST 2026] [com.telesoftlabs.testCases.BaseClass] [setup] [INFO] Browser initialized: firefox
+[Tue Apr 07 12:29:30 IST 2026] [com.telesoftlabs.testCases.BaseClass] [setup] [INFO] Browser Launched 
+[Tue Apr 07 12:29:31 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Login Username is: admin
+[Tue Apr 07 12:29:31 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Login Password is: Telesuite@8765
+[Tue Apr 07 12:29:33 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Session conflict modal not found 
+[Tue Apr 07 12:29:33 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Login to the application [Telesuite - Dashboard] is successfull
+[Tue Apr 07 12:29:33 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Expected URL is: http://192.168.100.142/cas/dashboard
+[Tue Apr 07 12:29:33 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Actual URL is: http://192.168.100.142/cas/dashboard
+[Tue Apr 07 12:29:33 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Actual snackbar is: User logged in successfully.
+[Tue Apr 07 12:29:33 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Clicked on Close button
+[Tue Apr 07 12:29:33 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Login successfull.......:)
+[Tue Apr 07 12:29:33 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] ***** started Adding Region *****
+[Tue Apr 07 12:29:33 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Sub Menu not found.......
+[Tue Apr 07 12:29:34 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Country name is: India
+[Tue Apr 07 12:29:34 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Country code is: +91
+[Tue Apr 07 12:29:34 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] IDD is: 12
+[Tue Apr 07 12:29:34 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] NDD is: 13
+[Tue Apr 07 12:29:34 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Area code is: 123
+[Tue Apr 07 12:29:34 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Fixed Line Start Digits is: 1,2,3
+[Tue Apr 07 12:29:34 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Mobile Start Digits is: 4,5,6
+[Tue Apr 07 12:29:34 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Service Provider is: AIRTEL
+[Tue Apr 07 12:29:35 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Network Start Digits is: 123
+[Tue Apr 07 12:29:36 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Region Added Successfully
+[Tue Apr 07 12:29:36 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [assertSnackbar] [INFO] Actual snackbar obtaining for adding region is: Region saved successfully!
+[Tue Apr 07 12:29:36 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [assertURL] [INFO] Actual URL of the page is: http://192.168.100.142/cas/setup/call
+[Tue Apr 07 12:29:37 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Clicked on Close button
+[Tue Apr 07 12:29:37 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [duplicateRegion] [INFO] ***** started Adding Duplicate Region *****
+[Tue Apr 07 12:29:37 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Country name is: India
+[Tue Apr 07 12:29:37 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Country code is: +91
+[Tue Apr 07 12:29:37 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] IDD is: 12
+[Tue Apr 07 12:29:37 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] NDD is: 13
+[Tue Apr 07 12:29:37 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Area code is: 123
+[Tue Apr 07 12:29:38 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Fixed Line Start Digits is: 1,2,3
+[Tue Apr 07 12:29:38 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Mobile Start Digits is: 4,5,6
+[Tue Apr 07 12:29:38 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Service Provider is: AIRTEL
+[Tue Apr 07 12:29:38 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [addRegion] [INFO] Network Start Digits is: 123
+[Tue Apr 07 12:29:40 IST 2026] [com.telesoftlabs.testCases.Tc_AddRegion] [assertDuplicateRegion] [INFO] Actual Heading obtaining for adding region is: Duplicate Entry
+[Tue Apr 07 12:29:41 IST 2026] [com.telesoftlabs.testCases.BaseClass] [tearDown] [INFO] Browser closed and driver instance terminated.
+[Tue Apr 07 13:07:41 IST 2026] [com.telesoftlabs.testCases.BaseClass] [setup] [INFO] Browser initialized: firefox
+[Tue Apr 07 13:07:42 IST 2026] [com.telesoftlabs.testCases.BaseClass] [setup] [INFO] Browser Launched 
+[Tue Apr 07 13:07:42 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [login] [INFO] ===== LOGIN TEST START =====
+[Tue Apr 07 13:07:44 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Login Username is: admin
+[Tue Apr 07 13:07:44 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Login Password is: Telesuite@8765
+[Tue Apr 07 13:07:45 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Session conflict modal not found 
+[Tue Apr 07 13:07:46 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Login to the application [Telesuite - Dashboard] is successfull
+[Tue Apr 07 13:07:46 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Expected URL is: http://192.168.100.142/cas/dashboard
+[Tue Apr 07 13:07:46 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Actual URL is: http://192.168.100.142/cas/dashboard
+[Tue Apr 07 13:07:46 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Actual snackbar is: User logged in successfully.
+[Tue Apr 07 13:07:46 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Clicked on Close button
+[Tue Apr 07 13:07:46 IST 2026] [com.telesoftlabs.testCases.Tc_Login] [login] [INFO] Login successfull.......:)
+[Tue Apr 07 13:07:46 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [login] [INFO] Login successful
+[Tue Apr 07 13:07:46 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateTodayAnalysis] [INFO] ===== TODAY ANALYSIS TEST START =====
+[Tue Apr 07 13:07:46 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Clicking Duration dropdown
+[Tue Apr 07 13:07:46 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Selecting duration: Today
+[Tue Apr 07 13:07:46 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Duration selected successfully
+[Tue Apr 07 13:07:46 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for loader to disappear
+[Tue Apr 07 13:07:46 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for Call Summary tab visibility
+[Tue Apr 07 13:07:46 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Dashboard loaded
+[Tue Apr 07 13:07:46 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Validating charts visibility
+[Tue Apr 07 13:07:46 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Charts validation completed
+[Tue Apr 07 13:07:46 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateNoRecordsMessage] [WARNING] Using default validation without date range
+[Tue Apr 07 13:07:47 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateTodayAnalysis] [INFO] ===== TODAY ANALYSIS TEST END =====
+[Tue Apr 07 13:07:47 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateThisMonthAnalysis] [INFO] ===== THIS MONTH TEST START =====
+[Tue Apr 07 13:07:47 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Clicking Duration dropdown
+[Tue Apr 07 13:07:47 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Selecting duration: This Month
+[Tue Apr 07 13:07:47 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Duration selected successfully
+[Tue Apr 07 13:07:47 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for loader to disappear
+[Tue Apr 07 13:07:47 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for Call Summary tab visibility
+[Tue Apr 07 13:07:47 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Dashboard loaded
+[Tue Apr 07 13:07:47 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Validating charts visibility
+[Tue Apr 07 13:07:47 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Charts validation completed
+[Tue Apr 07 13:07:47 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateNoRecordsMessage] [WARNING] Using default validation without date range
+[Tue Apr 07 13:07:48 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateThisMonthAnalysis] [INFO] ===== THIS MONTH TEST END =====
+[Tue Apr 07 13:07:48 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateDateBetweenAnalysis] [INFO] ===== DATE BETWEEN TEST START =====
+[Tue Apr 07 13:07:48 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Clicking Duration dropdown
+[Tue Apr 07 13:07:48 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Selecting duration: Date Between Analysis
+[Tue Apr 07 13:07:48 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDuration] [INFO] Duration selected successfully
+[Tue Apr 07 13:07:48 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for loader to disappear
+[Tue Apr 07 13:07:48 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for Call Summary tab visibility
+[Tue Apr 07 13:07:48 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Dashboard loaded
+[Tue Apr 07 13:07:48 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateDateBetweenAnalysis] [INFO] Applying date range from config: 01/Feb/2026 → 06/Apr/2026
+[Tue Apr 07 13:07:48 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDateBetween] [INFO] Entering From Date: 01/Feb/2026
+[Tue Apr 07 13:07:48 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDateBetween] [INFO] Entering To Date: 06/Apr/2026
+[Tue Apr 07 13:07:49 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [selectDateBetween] [INFO] Clicking Apply Filter button
+[Tue Apr 07 13:07:49 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for loader to disappear
+[Tue Apr 07 13:07:49 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Waiting for Call Summary tab visibility
+[Tue Apr 07 13:07:49 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [waitForDashboardToLoad] [INFO] Dashboard loaded
+[Tue Apr 07 13:07:49 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Validating charts visibility
+[Tue Apr 07 13:07:49 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateChartsDisplayed] [INFO] Charts validation completed
+[Tue Apr 07 13:07:49 IST 2026] [com.telesoftlabs.pageObjects.Dashboard] [validateNoRecordsMessage] [WARNING] Using default validation without date range
+[Tue Apr 07 13:07:49 IST 2026] [com.telesoftlabs.testCases.Tc_Dashboard] [validateDateBetweenAnalysis] [INFO] ===== DATE BETWEEN TEST END =====
+[Tue Apr 07 13:07:51 IST 2026] [com.telesoftlabs.testCases.BaseClass] [tearDown] [INFO] Browser closed and driver instance terminated.
